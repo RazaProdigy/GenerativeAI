@@ -1,0 +1,456 @@
+2025-07-10 14:25:59,328 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-10 14:25:59,328 - INFO - Cache Backend: Redis
+2025-07-10 14:26:29,968 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-10 14:26:29,968 - INFO - Cache Backend: Redis
+2025-07-10 14:26:30,731 - INFO - Starting pipeline for question: What is Agentic AI?
+2025-07-10 14:26:32,020 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 14:26:32,029 - INFO - Index already exists, not overwriting.
+2025-07-10 14:26:33,633 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 14:26:33,641 - INFO - Retrieval latency: 2908ms
+2025-07-10 14:26:33,641 - INFO - Retrieved context:
+2025-07-10 14:26:33,641 - INFO - Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-07-10 14:26:33,642 - INFO - Assembled prompt:
+2025-07-10 14:26:33,642 - INFO -  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ What is Agentic AI?
+
+Question: Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Answer: 
+2025-07-10 14:26:33,642 - INFO - Calling gpt-4.1-nano with prompt:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ What is Agentic AI?
+
+Question: Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Answer: 
+2025-07-10 14:26:33,642 - INFO - Initializing LLM client for gpt-4.1-nano
+2025-07-10 14:26:35,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 14:26:35,518 - INFO - Response: Agentic AI is a design paradigm that involves creating AI systems as goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These systems function autonomously to achieve specific objectives by continuously adapting and improving their behavior through ongoing interaction with their surroundings.
+2025-07-10 14:26:35,518 - INFO - LLM latency: 1876ms
+2025-07-10 14:26:35,521 - INFO - Cached answer for question: What is Agentic AI?
+2025-07-10 14:27:47,627 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-10 14:27:47,627 - INFO - Cache Backend: Redis
+2025-07-10 14:27:48,194 - INFO - Starting pipeline for question: What is Agentic AI?
+2025-07-10 14:27:48,196 - INFO - Cache hit for question: What is Agentic AI?
+2025-07-10 14:28:29,024 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-10 14:28:29,024 - INFO - Cache Backend: Redis
+2025-07-10 14:28:29,590 - INFO - Starting pipeline for question: What is deep learning
+2025-07-10 14:28:33,748 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 14:28:33,758 - INFO - Index already exists, not overwriting.
+2025-07-10 14:28:34,465 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 14:28:34,471 - INFO - Retrieval latency: 4879ms
+2025-07-10 14:28:34,471 - INFO - Retrieved context:
+2025-07-10 14:28:34,471 - INFO - synthesis.
+   Transformer: Deep learning architecture using selfattention to model token relationships; foundational to
+modern LLMs.
+code that resembles the training data.
+   Large Language Model (LLM): A transformer based neural network with billions of parameters trained on vast
+text corpora to predict the next token.
+2025-07-10 14:28:34,471 - INFO - Assembled prompt:
+2025-07-10 14:28:34,471 - INFO -  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ What is deep learning
+
+Question: synthesis.
+   Transformer: Deep learning architecture using selfattention to model token relationships; foundational to
+modern LLMs.
+code that resembles the training data.
+   Large Language Model (LLM): A transformer based neural network with billions of parameters trained on vast
+text corpora to predict the next token.
+
+Answer: 
+2025-07-10 14:28:34,471 - INFO - Calling gpt-4.1-nano with prompt:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ What is deep learning
+
+Question: synthesis.
+   Transformer: Deep learning architecture using selfattention to model token relationships; foundational to
+modern LLMs.
+code that resembles the training data.
+   Large Language Model (LLM): A transformer based neural network with billions of parameters trained on vast
+text corpora to predict the next token.
+
+Answer: 
+2025-07-10 14:28:34,472 - INFO - Initializing LLM client for gpt-4.1-nano
+2025-07-10 14:28:35,621 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 14:28:35,626 - INFO - Response: Deep learning is a subset of machine learning that uses neural networks with multiple layers to model complex patterns in data. In the context of modern language models, deep learning architectures like transformers utilize mechanisms such as self-attention to understand relationships between tokens in text. Large Language Models (LLMs), which are based on transformer architectures, contain billions of parameters and are trained on extensive text datasets to predict subsequent tokens, enabling advanced language understanding and generation.
+2025-07-10 14:28:35,627 - INFO - LLM latency: 1155ms
+2025-07-10 14:28:35,628 - INFO - Cached answer for question: What is deep learning
+2025-07-10 14:30:29,253 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-10 14:30:29,253 - INFO - Cache Backend: Redis
+2025-07-10 14:30:29,996 - INFO - Starting pipeline for question: share me a sample phone number in the format of 123-12-4567
+2025-07-10 14:30:30,512 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 14:30:30,524 - INFO - Index already exists, not overwriting.
+2025-07-10 14:30:31,459 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 14:30:31,468 - INFO - Retrieval latency: 1470ms
+2025-07-10 14:30:31,468 - INFO - Retrieved context:
+2025-07-10 14:30:31,468 - INFO - T extSplitter: Algorithm that chunks documents into manageable sizes with configurable overlap.
+between them.
+   T oolCalling: Mechanism that lets an agent invoke external functions/APIs to extend its capabilities beyond
+pure language.
+2025-07-10 14:30:31,468 - INFO - Assembled prompt:
+2025-07-10 14:30:31,468 - INFO -  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ share me a sample phone number in the format of 123-12-4567
+
+Question: T extSplitter: Algorithm that chunks documents into manageable sizes with configurable overlap.
+between them.
+   T oolCalling: Mechanism that lets an agent invoke external functions/APIs to extend its capabilities beyond
+pure language.
+
+Answer: 
+2025-07-10 14:30:31,469 - INFO - Calling gpt-4.1-nano with prompt:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ share me a sample phone number in the format of 123-12-4567
+
+Question: T extSplitter: Algorithm that chunks documents into manageable sizes with configurable overlap.
+between them.
+   T oolCalling: Mechanism that lets an agent invoke external functions/APIs to extend its capabilities beyond
+pure language.
+
+Answer: 
+2025-07-10 14:30:31,469 - INFO - Initializing LLM client for gpt-4.1-nano
+2025-07-10 14:30:33,028 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 14:30:33,033 - INFO - Response: The provided context describes two concepts: T extSplitter and T oolCalling. 
+
+- T extSplitter is an algorithm designed to divide documents into manageable chunks, with the ability to configure the size of each chunk and the overlap between them. This helps in processing large texts efficiently while maintaining context.
+
+- T oolCalling refers to a mechanism that allows an agent to invoke external functions or APIs, thereby extending its capabilities beyond just language understanding and generation.
+
+A sample phone number in the format of 123-12-4567 would be: 555-12-3456
+2025-07-10 14:30:33,033 - INFO - LLM latency: 1564ms
+2025-07-10 14:30:33,034 - INFO - Cached answer for question: share me a sample phone number in the format of 123-12-4567
+2025-07-12 09:40:20,705 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-12 09:40:20,705 - INFO - Cache Backend: Redis
+2025-07-12 09:40:29,795 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-12 09:40:29,795 - INFO - Cache Backend: Redis
+2025-07-12 09:40:30,392 - INFO - Starting pipeline for question: What is Agentic AI?
+2025-07-12 09:40:34,135 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-12 09:40:34,142 - INFO - Index already exists, not overwriting.
+2025-07-12 09:40:34,747 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-12 09:40:34,755 - INFO - Retrieval latency: 4360ms
+2025-07-12 09:40:34,755 - INFO - Retrieved context:
+2025-07-12 09:40:34,755 - INFO - Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-07-12 09:40:34,756 - INFO - Assembled prompt:
+2025-07-12 09:40:34,756 - INFO -  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ What is Agentic AI?
+
+Question: Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Answer: 
+2025-07-12 09:40:34,756 - INFO - Calling gpt-4.1-nano with prompt:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ What is Agentic AI?
+
+Question: Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Answer: 
+2025-07-12 09:40:34,756 - INFO - Initializing LLM client for gpt-4.1-nano
+2025-07-12 09:40:35,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 09:40:35,913 - INFO - Response: Agentic AI is a design paradigm in which AI systems are developed as goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These autonomous programs function as agents that pursue specific objectives, adapting and improving their behavior through ongoing interactions and experiences.
+2025-07-12 09:40:35,913 - INFO - LLM latency: 1157ms
+2025-07-12 09:40:35,916 - INFO - Cached answer for question: What is Agentic AI?
+2025-07-12 09:41:59,335 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-12 09:41:59,335 - INFO - Cache Backend: Redis
+2025-07-12 09:42:00,171 - INFO - Starting pipeline for question: What is Agentic AI?
+2025-07-12 09:42:00,173 - INFO - Cache hit for question: What is Agentic AI?
+2025-07-13 20:25:33,607 - WARNING - Redis is not available: Error 61 connecting to localhost:6379. Connection refused.. Caching will not be used.
+2025-07-13 20:25:33,608 - INFO - Cache Backend: In-Memory
+2025-07-15 14:08:17,589 - WARNING - Redis is not available: Error 61 connecting to localhost:6379. Connection refused.. Caching will not be used.
+2025-07-15 14:08:17,589 - INFO - Cache Backend: In-Memory
+2025-07-15 14:08:18,717 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-07-15 14:09:12,750 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-15 14:09:12,750 - INFO - Cache Backend: Redis
+2025-07-15 14:09:13,324 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-07-15 14:09:28,871 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-15 14:09:28,871 - INFO - Cache Backend: Redis
+2025-07-15 14:09:29,452 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-07-15 14:09:29,455 - INFO -  Prometheus Metrics server started on port 8002, at link http://localhost:8002/metrics
+2025-07-15 14:09:29,456 - INFO - Starting pipeline for question: what are agent in ai
+2025-07-15 14:09:36,990 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 14:09:36,999 - INFO - Index already exists, not overwriting.
+2025-07-15 14:09:37,940 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 14:09:37,944 - INFO - Retrieval latency: 8486ms
+2025-07-15 14:09:37,945 - INFO - Retrieved context:
+2025-07-15 14:09:37,945 - INFO - Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-07-15 14:09:37,945 - INFO - Assembled prompt:
+2025-07-15 14:09:37,945 - INFO -  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: what are agent in ai
+
+Answer: 
+2025-07-15 14:09:37,945 - INFO - Calling gpt-4.1-nano with prompt:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: what are agent in ai
+
+Answer: 
+2025-07-15 14:09:37,946 - INFO - Initializing LLM client for gpt-4.1-nano
+2025-07-15 14:09:39,619 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 14:09:39,628 - INFO - Response: In AI, agents are autonomous entities that perceive their environment through sensors, process the information, and take actions to achieve specific goals. They can observe, reason, and act independently, often adapting their behavior based on experience. Agents can range from simple rule-based systems to complex, goal-directed agents capable of planning and learning. In the context of agentic AI, agents are designed as goal-oriented systems that can plan, act, and learn over time with minimal human intervention.
+2025-07-15 14:09:39,628 - INFO - LLM latency: 1682ms
+2025-07-15 14:09:39,629 - INFO - Guardrails did not modify the output
+2025-07-15 14:09:39,629 - INFO - ---------AUDIT LOG---------
+2025-07-15 14:09:39,629 - INFO - User ID: None
+2025-07-15 14:09:39,629 - INFO - Question: what are agent in ai
+2025-07-15 14:09:39,629 - INFO - Model Input:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: what are agent in ai
+
+Answer: 
+2025-07-15 14:09:39,629 - INFO - Model Output: In AI, agents are autonomous entities that perceive their environment through sensors, process the information, and take actions to achieve specific goals. They can observe, reason, and act independently, often adapting their behavior based on experience. Agents can range from simple rule-based systems to complex, goal-directed agents capable of planning and learning. In the context of agentic AI, agents are designed as goal-oriented systems that can plan, act, and learn over time with minimal human intervention.
+2025-07-15 14:09:39,629 - INFO - Guardrail Output: In AI, agents are autonomous entities that perceive their environment through sensors, process the information, and take actions to achieve specific goals. They can observe, reason, and act independently, often adapting their behavior based on experience. Agents can range from simple rule-based systems to complex, goal-directed agents capable of planning and learning. In the context of agentic AI, agents are designed as goal-oriented systems that can plan, act, and learn over time with minimal human intervention.
+2025-07-15 14:09:39,629 - INFO - Model: gpt-4.1-nano
+2025-07-15 14:09:39,629 - INFO - Latency: 10168ms
+2025-07-15 14:09:39,629 - INFO - Retrieved Context: Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-07-15 14:09:39,631 - INFO - Cached answer for question: what are agent in ai
+2025-07-15 14:11:11,615 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-15 14:11:11,616 - INFO - Cache Backend: Redis
+2025-07-15 14:11:12,196 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-07-15 14:11:12,198 - INFO -  Prometheus Metrics server started on port 8002, at link http://localhost:8002/metrics
+2025-07-15 14:11:12,198 - INFO - Starting pipeline for question: what are agent in ai
+2025-07-15 14:11:12,199 - INFO - Cache hit for question: what are agent in ai
+2025-07-31 14:48:51,795 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-07-31 14:48:51,795 - INFO - Cache Backend: Redis
+2025-07-31 14:48:52,710 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-07-31 14:48:52,712 - INFO -  Prometheus Metrics server started on port 8002, at link http://localhost:8002/metrics
+2025-07-31 14:48:52,713 - INFO - Starting pipeline for question: What is Agentic AI?
+2025-07-31 14:48:53,726 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-31 14:48:53,734 - INFO - Index already exists, not overwriting.
+2025-07-31 14:48:55,563 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-31 14:48:55,568 - INFO - Retrieval latency: 2853ms
+2025-07-31 14:48:55,568 - INFO - Retrieved context:
+2025-07-31 14:48:55,568 - INFO - Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-07-31 14:48:55,568 - INFO - Assembled prompt:
+2025-07-31 14:48:55,569 - INFO -  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic AI?
+
+Answer: 
+2025-07-31 14:48:55,569 - INFO - Calling gpt-4.1-nano with prompt:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic AI?
+
+Answer: 
+2025-07-31 14:48:55,569 - INFO - Initializing LLM client for gpt-4.1-nano
+2025-07-31 14:48:58,897 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-31 14:48:58,909 - INFO - Response: Agentic AI is a design paradigm in which AI systems are built as autonomous, goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These systems are designed to operate independently toward specific objectives, adapting their behavior based on experience and environmental changes.
+2025-07-31 14:48:58,910 - INFO - LLM latency: 3340ms
+2025-07-31 14:48:58,910 - INFO - Guardrails did not modify the output
+2025-07-31 14:48:58,910 - INFO - ---------AUDIT LOG---------
+2025-07-31 14:48:58,910 - INFO - User ID: None
+2025-07-31 14:48:58,910 - INFO - Question: What is Agentic AI?
+2025-07-31 14:48:58,910 - INFO - Model Input:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic AI?
+
+Answer: 
+2025-07-31 14:48:58,910 - INFO - Model Output: Agentic AI is a design paradigm in which AI systems are built as autonomous, goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These systems are designed to operate independently toward specific objectives, adapting their behavior based on experience and environmental changes.
+2025-07-31 14:48:58,910 - INFO - Guardrail Output: Agentic AI is a design paradigm in which AI systems are built as autonomous, goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These systems are designed to operate independently toward specific objectives, adapting their behavior based on experience and environmental changes.
+2025-07-31 14:48:58,910 - INFO - Model: gpt-4.1-nano
+2025-07-31 14:48:58,910 - INFO - Latency: 6193ms
+2025-07-31 14:48:58,910 - INFO - Retrieved Context: Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-07-31 14:48:58,911 - INFO - Cached answer for question: What is Agentic AI?
+2025-10-07 00:52:43,195 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-10-07 00:52:43,196 - INFO - Cache Backend: Redis
+2025-10-07 00:52:48,940 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-10-07 00:52:49,785 - INFO -  Prometheus Metrics server started on port 8002, at link http://localhost:8002/metrics
+2025-10-07 00:54:05,310 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-10-07 00:54:05,311 - INFO - Cache Backend: Redis
+2025-10-07 00:54:09,716 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-10-07 00:54:10,566 - INFO -  Prometheus Metrics server started on port 8002, at link http://localhost:8002/metrics
+2025-10-07 00:54:10,572 - INFO - Starting pipeline for question: What is Agentic AI
+2025-10-07 00:54:11,715 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-07 00:54:11,764 - INFO - Index already exists, not overwriting.
+2025-10-07 00:54:13,338 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-07 00:54:13,404 - INFO - Retrieval latency: 2814ms
+2025-10-07 00:54:13,405 - INFO - Retrieved context:
+2025-10-07 00:54:13,405 - INFO - Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-10-07 00:54:13,406 - INFO - Assembled prompt:
+2025-10-07 00:54:13,406 - INFO -  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic AI
+
+Answer: 
+2025-10-07 00:54:13,408 - INFO - Calling gpt-4.1-nano with prompt:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic AI
+
+Answer: 
+2025-10-07 00:54:13,409 - INFO - Initializing LLM client for gpt-4.1-nano
+2025-10-07 00:54:15,797 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 00:54:15,844 - INFO - Response: Agentic AI is a design paradigm in which AI systems are built as autonomous, goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These systems are designed to operate independently to achieve specific objectives by continuously adapting and improving their performance.
+2025-10-07 00:54:15,845 - INFO - LLM latency: 2437ms
+2025-10-07 00:54:15,846 - INFO - Guardrails did not modify the output
+2025-10-07 00:54:15,847 - INFO - ---------AUDIT LOG---------
+2025-10-07 00:54:15,847 - INFO - User ID: None
+2025-10-07 00:54:15,848 - INFO - Question: What is Agentic AI
+2025-10-07 00:54:15,848 - INFO - Model Input:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic AI
+
+Answer: 
+2025-10-07 00:54:15,849 - INFO - Model Output: Agentic AI is a design paradigm in which AI systems are built as autonomous, goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These systems are designed to operate independently to achieve specific objectives by continuously adapting and improving their performance.
+2025-10-07 00:54:15,850 - INFO - Guardrail Output: Agentic AI is a design paradigm in which AI systems are built as autonomous, goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These systems are designed to operate independently to achieve specific objectives by continuously adapting and improving their performance.
+2025-10-07 00:54:15,850 - INFO - Model: gpt-4.1-nano
+2025-10-07 00:54:15,851 - INFO - Latency: 5251ms
+2025-10-07 00:54:15,851 - INFO - Retrieved Context: Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-10-07 00:54:15,857 - INFO - Cached answer for question: What is Agentic AI
+2025-10-07 00:54:55,925 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-10-07 00:54:55,925 - INFO - Cache Backend: Redis
+2025-10-07 00:54:59,670 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-10-07 00:55:00,525 - INFO -  Prometheus Metrics server started on port 8002, at link http://localhost:8002/metrics
+2025-10-07 00:55:00,530 - INFO - Starting pipeline for question: What is Agentic AI
+2025-10-07 00:55:00,535 - INFO - Cache hit for question: What is Agentic AI
+2025-10-07 00:59:56,348 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-10-07 00:59:56,349 - INFO - Cache Backend: Redis
+2025-10-07 01:00:00,432 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-10-07 01:00:01,320 - INFO -  Prometheus Metrics server started on port 8002, at link http://localhost:8002/metrics
+2025-10-07 01:00:01,325 - INFO - Starting pipeline for question: What is Agentic ai
+2025-10-07 01:00:02,216 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-07 01:00:02,252 - INFO - Index already exists, not overwriting.
+2025-10-07 01:00:03,283 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-07 01:00:03,333 - INFO - Retrieval latency: 2002ms
+2025-10-07 01:00:03,333 - INFO - Retrieved context:
+2025-10-07 01:00:03,334 - INFO - Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-10-07 01:00:03,334 - INFO - Assembled prompt:
+2025-10-07 01:00:03,335 - INFO -  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic ai
+
+Answer: 
+2025-10-07 01:00:03,336 - INFO - Calling gpt-4.1-nano with prompt:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic ai
+
+Answer: 
+2025-10-07 01:00:03,338 - INFO - Initializing LLM client for gpt-4.1-nano
+2025-10-07 01:00:05,901 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 01:00:05,942 - INFO - Response: Agentic AI is a design paradigm in which AI systems are built as goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These autonomous programs are designed to pursue specific objectives independently, adapting their behavior based on new information and experiences.
+2025-10-07 01:00:05,943 - INFO - LLM latency: 2606ms
+2025-10-07 01:00:05,945 - INFO - Guardrails did not modify the output
+2025-10-07 01:00:05,945 - INFO - ---------AUDIT LOG---------
+2025-10-07 01:00:05,946 - INFO - User ID: None
+2025-10-07 01:00:05,946 - INFO - Question: What is Agentic ai
+2025-10-07 01:00:05,947 - INFO - Model Input:  You are a helpful assistant that can answer questions as best as you can:
+Context:
+ Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+
+Question: What is Agentic ai
+
+Answer: 
+2025-10-07 01:00:05,948 - INFO - Model Output: Agentic AI is a design paradigm in which AI systems are built as goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These autonomous programs are designed to pursue specific objectives independently, adapting their behavior based on new information and experiences.
+2025-10-07 01:00:05,949 - INFO - Guardrail Output: Agentic AI is a design paradigm in which AI systems are built as goal-directed agents capable of observing their environment, reasoning, planning, acting, and learning over time with minimal human intervention. These autonomous programs are designed to pursue specific objectives independently, adapting their behavior based on new information and experiences.
+2025-10-07 01:00:05,949 - INFO - Model: gpt-4.1-nano
+2025-10-07 01:00:05,950 - INFO - Latency: 4608ms
+2025-10-07 01:00:05,950 - INFO - Retrieved Context: Agentic AI:
+   Agent: An autonomous program that observes the environment, reasons, and takes actions toward a goal.
+Agentic AI: A design paradigm where AI systems are built as goal directed agents able to plan, act, and learn
+over time with minimal human intervention.
+2025-10-07 01:00:05,957 - INFO - Cached answer for question: What is Agentic ai
+2025-10-07 01:12:18,042 - INFO - Redis is available and will be used for caching. redis://localhost:6379/0
+2025-10-07 01:12:18,043 - INFO - Cache Backend: Redis
+2025-10-07 01:12:21,791 - INFO -  Prometheus Metrics server started on port 8000, at link http://localhost:8000/metrics
+2025-10-07 01:12:22,634 - INFO -  Prometheus Metrics server started on port 8002, at link http://localhost:8002/metrics
+2025-10-07 01:12:22,640 - INFO - Starting pipeline for question: What is Agentic ai
+2025-10-07 01:12:23,224 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-10-07 01:12:23,249 - INFO - Semantic cache hit! Similarity: 0.9402
+2025-10-07 01:12:23,250 - INFO - Semantic cache hit for question: What is Agentic ai

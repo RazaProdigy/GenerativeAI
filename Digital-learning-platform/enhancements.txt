@@ -1,0 +1,31 @@
+### Embedding Strategy
+
+This system uses **OpenAI's embedding API** instead of downloading local models like sentence-transformers. This approach offers several advantages:
+
+- ✅ **No local model downloads** - Reduces storage requirements and setup complexity
+- ✅ **Always up-to-date** - Access to the latest embedding models without manual updates  
+- ✅ **Better performance** - OpenAI's embeddings are typically more accurate than local alternatives
+- ✅ **Scalability** - No memory constraints from loading large embedding models locally
+- ✅ **Consistency** - Same embeddings across different deployment environments
+
+### Performance Optimization
+
+- Use GPU-enabled embeddings for faster processing
+- Implement caching for frequently accessed documents
+- Batch process multiple PDFs for efficiency
+
+## Production Deployment
+
+### Security Considerations
+
+- Use environment variables for sensitive data
+- Implement authentication and authorization
+- Set up CORS policies appropriately
+- Monitor API usage and rate limiting
+
+### Scaling
+
+- Use container orchestration (Kubernetes, Docker Swarm)
+- Implement horizontal scaling with load balancers
+- Consider async processing for large documents
+- Use external vector databases for production scale

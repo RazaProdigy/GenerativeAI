@@ -1,0 +1,4720 @@
+[
+    {
+        "type": "text",
+        "text": "A Quick Algebra Review ",
+        "text_level": 1,
+        "bbox": [
+            325,
+            92,
+            674,
+            119
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Simplifying Expressions   \n2. Solving Equations   \n3 Problem Solving   \n4. Inequalities   \n5 Absolute Values   \n6. Linear Equations   \n7 Systems of Equations   \n8 Laws of Exponents   \n9. Quadratics   \n10. Rationals   \n11. Radicals ",
+        "bbox": [
+            171,
+            142,
+            447,
+            368
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Simplifying Expressions ",
+        "text_level": 1,
+        "bbox": [
+            174,
+            455,
+            413,
+            478
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An expression is a mathematical “phrase.” Expressions contain numbers and variables, but not an equal sign. An equation has an “equal” sign. For example: ",
+        "bbox": [
+            143,
+            496,
+            839,
+            558
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/99ab6832020dbbe82d17fe5349c89660f57689e874c0196abac84752d850e783.jpg",
+        "text": "$$\n\\begin{array} { c } { 5 + 3 } \\\\ { \\mathrm { x } + 3 } \\\\ { ( \\mathrm { x } + 4 ) ( \\mathrm { x } - 2 ) } \\\\ { \\mathrm { x } ^ { 2 } + 5 \\mathrm { x } + 6 } \\\\ { \\mathrm { x } - 8 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            251,
+            598,
+            383,
+            702
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/4c527474d9974b1d1b9e8fbd702be0e25c43d00277dc998fd85b3c63e0277e68.jpg",
+        "text": "$$\n\\begin{array} { c } { 5 + 3 = 8 } \\\\ { \\mathrm { x } + 3 = 8 } \\\\ { ( \\mathrm { x } + 4 ) ( \\mathrm { x } - 2 ) = 1 0 } \\\\ { \\mathrm { x } ^ { 2 } + 5 \\mathrm { x } + 6 = 0 } \\\\ { \\mathrm { x } - 8 > 3 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            591,
+            599,
+            769,
+            702
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When we simplify an expression, we work until there are as few terms as possible. This process makes the expression easier to use, (that’s why it’s called “simplify”). The first thing we want to do when simplifying an expression is to combine like terms. ",
+        "bbox": [
+            143,
+            741,
+            826,
+            821
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For example: ",
+        "bbox": [
+            143,
+            90,
+            267,
+            109
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are many terms to look at! Let’s start with $\\mathbf { X } ^ { 2 }$ . There are no other terms with $\\mathbf { X } ^ { 2 }$ in them, so we move on. $1 0 \\mathrm { x }$ and ${ 5 } \\mathrm { x }$ are like terms, so we add their coefficients together. $1 0 + ( - 5 ) = 5$ , so we write 5x. -6 and 4 are also like terms, so we can combine them to get $^ { - 2 }$ . Isn’t the simplified expression much nicer? ",
+        "bbox": [
+            214,
+            126,
+            455,
+            335
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Simplify: ",
+        "text_level": 1,
+        "bbox": [
+            539,
+            140,
+            619,
+            159
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/7f3401754bb59e8fe927c8b030ff5ca558f20e333b3d5e80ae7fc34eda1efd54.jpg",
+        "text": "$$\n\\begin{array} { l } { { \\bf x } ^ { 2 } + 1 0 { \\bf x } - 6 - 5 { \\bf x } + 4 } \\\\ { = { \\bf x } ^ { 2 } + 5 { \\bf x } - 6 + 4 } \\\\ { = { \\bf x } ^ { 2 } + 5 { \\bf x } - 2 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            532,
+            167,
+            705,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Order of Operations ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            492,
+            349,
+            512
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PEMDAS – Please Excuse My Dear Aunt Sally, remember that from Algebra class? It tells the order in which we can complete operations when solving an equation. First, complete any work inside PARENTHESIS, then evaluate EXPONENTS if there are any. Next MULTIPLY or DIVIDE numbers before ADDING or SUBTRACTING. For example: ",
+        "bbox": [
+            143,
+            531,
+            844,
+            633
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Simplify: ",
+        "text_level": 1,
+        "bbox": [
+            539,
+            671,
+            619,
+            689
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inside the parenthesis, look for more order of operation rules - PEMDAS. We don’t have any exponents, but we do need to multiply before we subtract, then add inside the parentheses before we multiply by negative 2 on the outside. ",
+        "bbox": [
+            199,
+            645,
+            385,
+            856
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "-2[3 - (-2)(6)] $= - 2 [ 3 - ( - 1 2 ) ]$   \n= -2[3+12]   \n$= - 2 [ 1 5 ]$   \n= -30 ",
+        "bbox": [
+            535,
+            704,
+            650,
+            863
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let’s try another one… ",
+        "bbox": [
+            143,
+            90,
+            359,
+            109
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inside the parenthesis, look for order of operation rules - PEMDAS. ",
+        "bbox": [
+            112,
+            122,
+            361,
+            172
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We need to subtract 5 from 3 then add 12 inside the parentheses. This takes care of the $\\mathrm { P }$ in PEMDAS, now for the E, Exponents. We square -4. Make sure to use $\\left( - 4 \\right) ^ { 2 }$ if you are relying on your calculator. If you input $- \\overline { { 4 } } ^ { 2 }$ the calculator will evaluate the expression using PEMDAS. It will do the exponent first, then multiply by -1, giving you -16, though we know the answer is 16. Now we can multiply and then add to finish up. ",
+        "bbox": [
+            112,
+            174,
+            397,
+            401
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Practice makes perfect… ",
+        "bbox": [
+            145,
+            436,
+            375,
+            455
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since there are no like terms inside the parenthesis, we need to distribute the negative sign and then see what we have. There is really a -1 there but we’re basically lazy when it comes to the number one and don’t always write it (since 1 times anything is itself). So we need to take -1 times EVERYTHING in the parenthesis, not just the first term. Once we have done that, we can combine like terms and rewrite the expression. ",
+        "bbox": [
+            142,
+            469,
+            380,
+            750
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Now you try: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            823,
+            266,
+            842
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[you should get -18x $+ 2 0$ ] ",
+        "bbox": [
+            143,
+            862,
+            320,
+            878
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Simplify: ",
+        "text_level": 1,
+        "bbox": [
+            552,
+            136,
+            633,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/09cd81ad5a1690745b4924ba7d0db82780e20b9abf1a70a4c6a0a5d2b4a6c406.jpg",
+        "text": "$$\n\\begin{array} { r l } & { ( - 4 ) ^ { 2 } + 2 [ 1 2 + ( 3 - 5 ) ] } \\\\ & { = ( - 4 ) ^ { 2 } + 2 [ 1 2 + ( - 2 ) ] } \\\\ & { = ( - 4 ) ^ { 2 } + 2 [ 1 0 ] } \\\\ & { = 1 6 + 2 [ 1 0 ] } \\\\ & { = 1 6 + 2 [ 1 0 ] } \\\\ & { = 1 6 + 2 0 } \\\\ & { = 3 6 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            547,
+            166,
+            725,
+            364
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Simplify: ",
+        "bbox": [
+            539,
+            503,
+            616,
+            522
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/b5c37b16eef89c32aa1c5233fbb71a58c56578fc7198acf16715e6f1bbf09a25.jpg",
+        "text": "$$\n\\begin{array} { r l } & { ( 5 \\mathtt { a } ^ { 2 } - 3 \\mathtt { a } + 1 ) - ( 2 \\mathtt { a } ^ { 2 } - 4 \\mathtt { a } + 6 ) } \\\\ & { = ( 5 \\mathtt { a } ^ { 2 } - 3 \\mathtt { a } + 1 ) - 1 ( 2 \\mathtt { a } ^ { 2 } - 4 \\mathtt { a } + 6 ) } \\\\ & { = ( 5 \\mathtt { a } ^ { 2 } - 3 \\mathtt { a } + 1 ) - 1 ( 2 \\mathtt { a } ^ { 2 } ) - ( - 1 ) ( - 4 \\mathtt { a } ) + ( - 1 ) ( 6 ) } \\\\ & { = ( 5 \\mathtt { a } ^ { 2 } - 3 \\mathtt { a } + 1 ) - 2 \\mathtt { a } ^ { 2 } + 4 \\mathtt { a } - 6 } \\\\ & { = \\frac { 5 \\mathtt { a } ^ { 2 } - 3 \\mathtt { a } + 1 } { 5 } - 2 \\mathtt { a } ^ { 2 } + 4 \\mathtt { a } - 6 } \\\\ & { = 3 \\mathtt { a } ^ { 2 } + 3 \\mathtt { a } - 5 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            532,
+            534,
+            882,
+            733
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Solving Equations ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            90,
+            325,
+            112
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An equation has an equal sign. The goal of solving equations is to get the variable by itself, to SOLVE for $\\mathbf { X } = .$ . In order to do this, we must “undo” what was done to the problem initially. Follow reverse order of operations – look for addition/subtraction first, then multiplication/division, then exponents, and parenthesis. The important rule when solving an equation is to always do to one side of the equal sign what we do to the other. ",
+        "bbox": [
+            143,
+            131,
+            851,
+            253
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For example ",
+        "bbox": [
+            143,
+            273,
+            263,
+            294
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Solve: $\\mathbf { x } + 9 = . 6$ -9 -9 $\\mathbf { x } = - 1 5$ ",
+        "bbox": [
+            183,
+            327,
+            269,
+            433
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To solve an equation we need to get our variable by itself. To “move” the 9 to the other side, we need to subtract 9 from both sides of the equal sign, since 9 was added to $\\mathbf { X }$ in the original problem. Then we have $\\mathbf { x } + 9 - 9 = \\mathbf { - } 6 - 9$ so $\\mathbf { x } + 0 = - 1 5$ or just $\\mathbf { x } = - 1 5$ . ",
+        "bbox": [
+            434,
+            325,
+            767,
+            450
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Solve:   \n$5 { \\mathrm { x } } - 7 = 2$ $+ 7 + 7$ $5 \\mathbf { X } = 9$ 5x = 9 5 5 x = 9/5 ",
+        "bbox": [
+            186,
+            465,
+            277,
+            660
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When the equations get more complicated, just remember to “undo” what was done to the problem initially using PEMDAS rules BACKWARDS and move one thing at a time to leave the term with the variable until the end. They subtract 7; so we add 7 (to both sides). They multiply by 5; we divide by five. ",
+        "bbox": [
+            434,
+            488,
+            766,
+            646
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When there are variables on both sides of the equation, add or subtract to move them to the same side, then get the term with the variable by itself. Remember, we can add together terms that are alike! ",
+        "bbox": [
+            155,
+            704,
+            488,
+            794
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Solve:   \n$7 ( \\mathrm { x } + 4 ) = 6 \\mathrm { x } + 2 4$   \ndistribute   \n$7 { \\bf x } + 2 8 = 6 { \\bf x } + 2 4$ -28 - 28 $7 \\mathrm { x } = 6 \\mathrm { x } - 4$ -6x -6x $\\mathbf { x } = \\mathbf { - } 4$ ",
+        "bbox": [
+            640,
+            681,
+            789,
+            863
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Your Turn: $2 ( \\mathrm { x } - \\mathrm { l } ) = - 3$ (you should get $\\mathbf { x } = - 1 / 2$ ) ",
+        "bbox": [
+            145,
+            842,
+            362,
+            863
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            151,
+            882,
+            320,
+            898
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            90,
+            310,
+            113
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Many people look at word problems and think, “I’m really bad at these!” But once we accept them, they help us solve problems in life when the equation, numbers, and variables are not given to us. They help us THINK, logically. ",
+        "bbox": [
+            145,
+            131,
+            843,
+            212
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One of the challenging parts of solving word problems is that you to take a problem given in written English and translate it into a mathematical equation. In other words, we turn words into numbers, variables, and mathematical symbols. ",
+        "bbox": [
+            143,
+            232,
+            834,
+            314
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There are three important steps to “translating” a word problem into an equation we can work with: ",
+        "bbox": [
+            145,
+            334,
+            797,
+            375
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d51ae162c5da01e6c38da9cfd5edc4407b48472d7361861d7d46d2ca8559a5f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            364,
+            395,
+            622,
+            489
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Let’s look at an example: ",
+        "bbox": [
+            145,
+            497,
+            379,
+            517
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The fence around my rectangular back yard is 48 feet long. My yard is 3ft longer than twice the width. What is the width of my yard? What is the length? ",
+        "bbox": [
+            202,
+            536,
+            839,
+            598
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "First, we have to make sure we understand the problem. So what’s going on here? Drawing a picture often helps with this step. ",
+        "bbox": [
+            147,
+            619,
+            841,
+            660
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/723761af534e5dde93244f4db5241e0968b14ddefaeef2a02515fc4d662abd1c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            158,
+            741,
+            457,
+            856
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We know that the problem is describing a person’s rectangular yard. We also know that one side is the width and the other side is the length. The perimeter of (distance around) the yard is 48ft. To arrive at that perimeter, we add length $^ +$ length $^ +$ width $^ +$ width, or use the formula $2 l + 2 w = p$ (cd:) $l =$ length, $w =$ width, $p =$ perimeter) ",
+        "bbox": [
+            611,
+            686,
+            849,
+            915
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Next, we have to define the variables: ",
+        "bbox": [
+            143,
+            131,
+            506,
+            151
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/78eda4d9d839d7abaf970e9e68b3946823bcf33dc30fe79fd5b52fab32cfe40c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            197,
+            189,
+            459,
+            297
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The problem also states, “The length of my yard is 3ft more than twice the width.” This means that if I know the We know the perimeter is width, I can multiply it by 2 48ft, but we do not know tand add 3 to determine the length length. ",
+        "bbox": [
+            612,
+            103,
+            849,
+            224
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Let’s have $w =$ the width. We find the length by multiplying the width by 2 and adding 3, so length $= 2 w + 3$ . Let’s add these labels to the picture. ",
+        "bbox": [
+            614,
+            244,
+            831,
+            348
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now, we write an equation. ",
+        "bbox": [
+            145,
+            369,
+            413,
+            390
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/281029b64daa51e147f562cac0e27409d946c0e7552cf8166deb69f0c0434fbd.jpg",
+        "text": "$$\np = 2 l + 2 w\n$$",
+        "text_format": "latex",
+        "bbox": [
+            197,
+            429,
+            320,
+            453
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/13596f2362fece65961d3c79e745933dd03a0bcb4087fd1b810e1aefcb01d73b.jpg",
+        "text": "$$\n4 8 = 2 ( 2 w + 3 ) + 2 w\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            489,
+            398,
+            512
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To write the equation we substitute our variables into the equation for the perimeter. The formula already calls for $w$ , so we can just leave that as is. Where it calls for length, we can just plug in $^ { \\mathfrak { s } } 2 w + 3 ^ { \\mathfrak { s } }$ . We already know our perimeter is 48ft, so we substitute that in for $p$ . ",
+        "bbox": [
+            568,
+            398,
+            838,
+            558
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To solve the equation: ",
+        "bbox": [
+            145,
+            593,
+            352,
+            613
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8fc75b86547d5f6eb93901fa63c78a3b84b29ef90a548d5077baa8aa2118b757.jpg",
+        "text": "$$\n4 8 = 2 ( 2 w + 3 ) + 2 w\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            632,
+            397,
+            655
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Use the distributive property to multiply 2 by $2 w$ and 3.   \nCombine like terms $4 w$ and $2 w$ ).   \nSubtract 6 from both sides to “undo” the addition.   \nDivide by 6 on both sides to “undo” the multiplication.   \nYou are left with a width of 7 ft. Now we need to find the length. ",
+        "bbox": [
+            475,
+            621,
+            921,
+            800
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Check to see that it works ",
+        "bbox": [
+            204,
+            90,
+            444,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Substitute our newly found width and simplify using order of operations $\\circleddot$ ",
+        "bbox": [
+            478,
+            94,
+            898,
+            130
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2(7) + 3   \n14 + 3 ",
+        "bbox": [
+            202,
+            131,
+            281,
+            170
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "So now we know that the yard is 7ft wide and 17ft long. ",
+        "bbox": [
+            480,
+            147,
+            924,
+            166
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "17ft $=$ length ",
+        "bbox": [
+            204,
+            191,
+            325,
+            213
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Your turn: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            252,
+            240,
+            272
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I have a box. The length of the box is 12 in. The height of the box is 5 in. The box has a total volume of 360 in.2 What is the width of the box? ",
+        "bbox": [
+            140,
+            292,
+            852,
+            334
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note: The formula for volume is $V = l w h$ , where $\\nu =$ volume, $l =$ length, $w =$ width, and $h =$ height. ",
+        "bbox": [
+            145,
+            335,
+            799,
+            376
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(You should get $w = 6 \\mathrm { i n } .$ .) ",
+        "bbox": [
+            145,
+            415,
+            315,
+            430
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inequalities ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            492,
+            263,
+            512
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We’ve all been taught little tricks to remember the inequality sign. For example; when given $\\mathbf { x } < 1 0$ , we know that x is less than ten because x has the LITTLE side of the sign and 10 has the BIG side of the sign. ",
+        "bbox": [
+            143,
+            531,
+            838,
+            593
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Solving inequalities is similar to solving equations; what you do to one side of an inequality, we must do to the other. If we are given $\\mathbf { x } + 7 > 1 3$ and asked to solve, we would undo the addition on the left side by subtracting 7 from both sides. We would then be left with $\\mathbf { \\Delta x } > \\mathbf { 6 }$ , which is our answer. ",
+        "bbox": [
+            145,
+            613,
+            839,
+            694
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Suppose we were given $\\mathbf { 1 } _ { / 4 } \\mathbf { x } < 2$ . To undo the division, we would multiply both sides by 4. The result would be $\\mathbf { x } < \\mathbf { 8 }$ . ",
+        "bbox": [
+            145,
+            714,
+            833,
+            755
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "But if we had – $- \\sqrt [ 1 ] { 4 \\mathbf { \\lambda } } \\mathbf { X } < 2$ , we would multiply by both sided of the inequality by $^ { - 4 }$ and the rule is that when multiplying (or dividing) by a negative number, we must always flip the sign of an inequality. So we would get $\\mathbf { x } > 2$ . ",
+        "bbox": [
+            143,
+            775,
+            833,
+            858
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Let’s practice: ",
+        "bbox": [
+            143,
+            90,
+            279,
+            109
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Just as with an equation, we start here by dividing both sides by -2. Since we are dividing by a negative, we must flip the inequality sign. ",
+        "bbox": [
+            508,
+            118,
+            834,
+            189
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Next, we add five to both sides and we are left with $\\mathbf { x } > 0$ . ",
+        "bbox": [
+            508,
+            205,
+            818,
+            241
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/24302c87de6759cc8d55374c2e91939bd3697e77c7145df54bf7e1620bc6f2a5.jpg",
+        "text": "$$\n\\mathbf { x } > 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            199,
+            251,
+            246,
+            268
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It’s always good to check our answer. To do this, plug values in for x. Let’s try 1, since it is greater than 0 and an easier number to work with. 1 – 5 is - 4. -4 times $^ { - 2 }$ is -8. ",
+        "bbox": [
+            143,
+            273,
+            852,
+            333
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Is - $\\mathbf { - 8 < 1 0   ? }$ You bet! ",
+        "bbox": [
+            143,
+            334,
+            339,
+            353
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $4 \\mathrm { x } + 2 > 1 0$ ",
+        "bbox": [
+            145,
+            393,
+            356,
+            415
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[You should get $\\mathbf { x } > 2$ ] ",
+        "bbox": [
+            143,
+            434,
+            297,
+            452
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Absolute Values ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            512,
+            307,
+            532
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The absolute value of a number is its distance from zero on the number line.   \nSince we can’t have negative distance, absolute values are always positive. ",
+        "bbox": [
+            143,
+            551,
+            849,
+            593
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/2eb55488885962a24011068780362b8bc7909301749562203f9be93062dbce98.jpg",
+        "text": "$$\n\\begin{array} { c } { { \\mid 5 \\mid = 5 } } \\\\ { { \\mid \\neg 7 \\mid = 7 } } \\\\ { { \\mid \\neg 8 + 2 \\mid = 6 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            441,
+            604,
+            562,
+            719
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When solving absolute value equations, we must consider that the number inside could have been negative before you applied the absolute value! ",
+        "bbox": [
+            143,
+            734,
+            830,
+            776
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For example: $\\left| \\mathbf { \\nabla } _ { \\mathbf { X } } + 2 \\mathbf { \\nabla } \\right| = 3$ ",
+        "bbox": [
+            143,
+            791,
+            436,
+            819
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/282959b8c5c692b7ba6d0353b846650868cbb2d0de147dfdba0f0d1c3142bd9e.jpg",
+        "text": "$$\n\\underbrace { \\mathbf { x } + 2 } _ { \\begin{array} { l } { \\mathbf { \\Delta } } \\end{array} } \\quad \\begin{array} { l } { \\mathrm { a n d } \\quad \\quad \\mathbf { x } + 2 } \\\\ { \\mathbf { \\Delta } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            183,
+            834,
+            426,
+            873
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When we take the absolute value, both are equal to 3. ",
+        "bbox": [
+            539,
+            820,
+            753,
+            856
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "So we end up with TWO SOLUTIONS for this equation. ",
+        "bbox": [
+            537,
+            872,
+            738,
+            926
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/62e9d4c67e1c1f16556642ff9b98246779ed680ff1d5408a1544f91f021bcfd3.jpg",
+        "text": "$$\n\\begin{array} { r l r } { \\mathbf { x } + 2 = 3 } & { { } \\mathrm { a n d } } & { \\mathbf { x } + 2 = - 3 } \\\\ { - 1 } & { { } - 1 } & { - 2 \\qquad - 2 } \\\\ { \\mathbf { x } = 1 } & { { } } & { \\mathbf { x } = - 5 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            142,
+            88,
+            405,
+            152
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[You should get $\\mathbf { { x } } = - 1 / 3$ and $\\mathbf { x } = 3$ ] ",
+        "bbox": [
+            145,
+            212,
+            380,
+            227
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Linear Equations ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            247,
+            318,
+            268
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "If we plot all the solutions to a linear equation on a graph, they form a line. That is why they are called linear equations. Linear equations can be written in slope-intercept form. There are two important things to know when writing the equation of a line in slope-intercept form; the slope and the y-intercept. ",
+        "bbox": [
+            145,
+            287,
+            834,
+            390
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The slope of the line gives the rate of change. Remember slope is rise over the run. That is because from any point on the line, the “direction” to another point on the line is given in terms of the x and y coordinates, how much it “rises,” goes up (or if negative, down) and “runs” (moves in the horizontal direction). For example, if the slope is 2/3; from any point on your line to get to another point on your line we would move positive (up) 2 and positive (to the right) 3. The y-intercept is the point where the line crosses the y axis. ",
+        "bbox": [
+            143,
+            409,
+            846,
+            571
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Slope-intercept form is written where the equation is solved for y: ",
+        "bbox": [
+            143,
+            593,
+            763,
+            613
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ff9e6bc5c78c61dd4a6642620e8d2ab5f3ff00d9e3f0f43c4649e89d91572426.jpg",
+        "text": "$$\n\\mathbf { y } = \\mathbf { m } \\mathbf { x } + \\mathbf { b }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            259,
+            613,
+            370,
+            635
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where m is the slope and $\\mathbf { b }$ is the y-intercept. ",
+        "bbox": [
+            147,
+            654,
+            558,
+            674
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To find the slope of a line that is not written in slope intercept form, we must solve the equation for y. ",
+        "bbox": [
+            145,
+            694,
+            852,
+            734
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For example: ",
+        "bbox": [
+            145,
+            756,
+            267,
+            776
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Find the slope and y-intercept of the line $3 \\mathrm { x } - 2 \\mathrm { y } = 4$ . ",
+        "bbox": [
+            145,
+            795,
+            633,
+            816
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We need to put the equation in slope intercept form. Then we can quickly identify the parts by their position in the equation. ",
+        "bbox": [
+            145,
+            835,
+            826,
+            877
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "img_path": "images/540ed08765dc505681166da6ad19600cf25193a4180c3366edabbc5a926bfa68.jpg",
+        "text": "$$\n\\begin{array} { c } { 3 \\mathrm { x } - 2 \\mathrm { y } = 4 } \\\\ { - 3 \\mathrm { x } } \\\\ { \\frac { - 2 \\mathrm { y } } { - 2 } = \\frac { - 3 \\mathrm { x } + 4 } { - 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            140,
+            88,
+            320,
+            171
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To solve we subtract $3 \\mathbf { x }$ from both sides of the equation. Be careful to note that the 2y remaining is negative. Then divide both sides by -2. ",
+        "bbox": [
+            493,
+            101,
+            740,
+            223
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "img_path": "images/0bf3d82f9c4984b4adba553fa738be8882e34ed4b8651af27fe88f1b62acdebb.jpg",
+        "text": "$$\n\\mathbf { y } = \\underline { { 3 \\mathbf { x } } } - 2\n$$",
+        "text_format": "latex",
+        "bbox": [
+            202,
+            190,
+            302,
+            232
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Now it is easy to compare the   \nequation we have to the slope-intercept form and identify the slope and the y-intercept of this line. ",
+        "bbox": [
+            143,
+            233,
+            833,
+            292
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "img_path": "images/79f834a31c2322271f0d7e677b0c9eee302cf58db115e0426a4fef87f8ec35a6.jpg",
+        "text": "$$\n\\mathrm { y } = \\frac { 3 \\mathrm { x } - 2 } { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            316,
+            292,
+            416,
+            334
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { y } = \\mathbf { m } \\mathbf { x } + \\mathbf { b }$ , so the slope, $\\mathrm { m } { = } 3 / 2$ and the y-intercept, $\\scriptstyle \\mathtt { b } = \\mathtt { - } 2$ ",
+        "bbox": [
+            142,
+            354,
+            683,
+            376
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Your turn: Find the slope and y-intercept of the linear equation $\\mathbf { x } - 3 \\mathbf { y } = - 6$ ",
+        "bbox": [
+            143,
+            414,
+            833,
+            436
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[You should get $\\mathrm { m } = 1 / 3$ and ${ \\mathsf b } = 2$ ] ",
+        "bbox": [
+            145,
+            454,
+            380,
+            472
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Writing the Equation of a Line in Slope Intercept Form ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            510,
+            689,
+            532
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Let’s try this example: ",
+        "bbox": [
+            145,
+            551,
+            354,
+            571
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "What is the equation of a line that has a slope of $-$ and the point $( 9 , 2 ) ?$ ",
+        "bbox": [
+            143,
+            590,
+            820,
+            614
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Since we know that lines can be written in the form $\\mathbf { y } = \\mathbf { m } \\mathbf { x } + \\mathbf { b }$ , use this equation as a template and substitute the information that you have into the equation to find the y-intercept. ",
+        "bbox": [
+            143,
+            632,
+            836,
+            695
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "img_path": "images/9fcde36d069ac75b1dfbd594bc9f79b314a708a2e55dccfd6f27659c45694335.jpg",
+        "text": "$$\n\\begin{array} { l } { \\mathbf { y } = \\mathbf { \\phi } _ { \\mathbf { x } } + \\mathbf { b } } \\\\ { 2 = { \\mathbf { \\phi } } ( 9 ) + \\mathbf { b } } \\\\ { 2 = - 2 ( 3 ) + \\mathbf { b } } \\\\ { 2 = - 6 + \\mathbf { b } } \\\\ { 2 + 6 = \\mathbf { b } } \\\\ { 8 = \\mathbf { b } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            254,
+            709,
+            408,
+            840
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Substitute $- 2 / 3$ in for the slope m, and (9, 2) in for the point $( \\mathbf { x } , \\mathbf { y } )$ in the equation. ",
+        "bbox": [
+            493,
+            727,
+            736,
+            782
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Now you have everything you need to write the equation of the line with slope $- 2 / 3$ through the point (9,2). Put the slope and y-intercept back into the equation and you have $\\mathbf { y } = - 2 / 3 \\mathbf { x } + \\overline { { 8 } }$ ",
+        "bbox": [
+            143,
+            89,
+            821,
+            152
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sometimes, the slope isn’t given. Let’s try another example: ",
+        "bbox": [
+            147,
+            171,
+            710,
+            193
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Find the equation of a line that passes through the points (3, 1) and (6, 2). ",
+        "bbox": [
+            142,
+            212,
+            818,
+            233
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The first thing we need to do is find the slope of the line through these two points. ",
+        "bbox": [
+            142,
+            252,
+            833,
+            292
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Remember that: ",
+        "bbox": [
+            145,
+            295,
+            294,
+            314
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "img_path": "images/96b310a2670c4c68cb632829ff8acf18c9e7ad7d9a30f68b8b6241082d62014b.jpg",
+        "text": "$$\n{ \\mathrm { s l o p e } } = { \\mathrm { m } } = { \\frac { y _ { 2 } - y _ { 1 } } { x _ { 2 } - x _ { 1 } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            337,
+            382,
+            376
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "img_path": "images/72f064c9f7e58af6a6077941bf2de093d876ce144743e2da568b4422371fe8cd.jpg",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathfrak { m } } = { \\frac { 2 - 1 } { 6 - 3 } } } } \\\\ { { } } \\\\ { { \\displaystyle { \\mathfrak { m } } = { \\frac { 1 } { 3 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            259,
+            415,
+            351,
+            518
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "No one is trying to confuse you with all of these subscripts…Its just that we have two points $( \\mathbf { x } , \\mathbf { y } )$ so we call the first one $( \\mathbf { x } _ { 1 } , \\mathbf { y } _ { 1 } )$ and the second $\\left( \\mathbf { { x } } _ { 2 } , \\mathbf { { y } } _ { 2 } \\right)$ Substitute (3, 1) in for one point and (6, 2) in for the other. Be careful to go the same direction when you subtract and WATCH YOUR SIGNS! ",
+        "bbox": [
+            552,
+            306,
+            759,
+            534
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Now we can substitute the slope and one of the points (either one will work) into the equation $\\mathbf { y } = \\mathbf { m } \\mathbf { x } + \\mathbf { b }$ and solve for b. ",
+        "bbox": [
+            143,
+            556,
+            848,
+            597
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We’ll use the point (3, 1) for (x, y) ",
+        "bbox": [
+            145,
+            618,
+            467,
+            638
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "img_path": "images/bd939aaa44801a8e5636dc7218411fa08cdbbf52e3c31caf77cd00ececa64629.jpg",
+        "text": "$$\n\\begin{array} { l } { { \\bf { y } } ^ { = } = { \\bf { x } } + { \\bf { b } } } \\\\ { \\quad 1 = \\quad \\quad ( 3 ) + { \\bf { b } } } \\\\ { \\quad 1 = 1 + { \\bf { b } } } \\\\ { \\quad 1 - 1 = { \\bf { b } } } \\\\ { 0 = { \\bf { b } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            254,
+            637,
+            401,
+            741
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Now we have everything we need to write the equation of the line with points (3, 1) and (6, 2). We found that the slope $\\mathrm { m } = 1 / 3$ then we found the y-intercept. Putting them into the equation you have $\\mathbf { y } = 1 / 3 \\mathbf { x } + 0$ ",
+        "bbox": [
+            143,
+            741,
+            831,
+            803
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Your turn: Find the equation of the line that goes through the points (5, 4) and (1, -4). ",
+        "bbox": [
+            143,
+            819,
+            825,
+            863
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[You should get $\\mathbf { y } = 2 \\mathbf { x } - 6 ]$ ",
+        "bbox": [
+            145,
+            881,
+            328,
+            898
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Graphing Linear Equations ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            90,
+            419,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To graph linear equations from the y-intercept form begin by plotting the yintercept on the graph. From this point, use the slope to find another point on the line. ",
+        "bbox": [
+            143,
+            131,
+            841,
+            190
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For example: Graph the equation $\\mathbf { y } = \\% \\mathbf { x } + \\mathbf { 1 }$ ",
+        "bbox": [
+            143,
+            193,
+            552,
+            213
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1c26284ae9be8de0ad573db43f980a173d0abe61d68844fa247dd3de65d9a26.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            148,
+            252,
+            454,
+            481
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Since our y-intercept is 1, we know that the point $( 0 , 1 )$ will be on our line. ",
+        "bbox": [
+            522,
+            257,
+            805,
+            308
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "From this point, we will use our slope to find another point. The slope (3/4) is $\\left( \\frac { r i s e } { r u n } \\right)$ , so if we go up 3 and right 4 from the yintercept we will arrive at another point on the line, (4, 4). ",
+        "bbox": [
+            522,
+            327,
+            797,
+            458
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Two points make a line, so connect the points and we have the graph of $\\mathbf { y } = \\% \\mathbf { x } + \\mathbf { 1 }$ ",
+        "bbox": [
+            522,
+            474,
+            810,
+            529
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "NOTE: IF the slope is a whole number write it over 1 so you can count your slope, $3 = { \\frac { 3 } { 1 } }$ ",
+        "bbox": [
+            143,
+            558,
+            852,
+            616
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Your turn: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            637,
+            240,
+            656
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Graph the line $4 \\mathrm { x } + 2 \\mathrm { y } = 8$ (hint: solve for y-intercept form first) ",
+        "bbox": [
+            233,
+            637,
+            839,
+            659
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[you should find y-intercept at (0,4) and the slope should be negative $\\frac { - 2 } { 1 } ]$ ",
+        "bbox": [
+            143,
+            679,
+            642,
+            715
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Systems of Equations ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            761,
+            357,
+            784
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We have looked at solving one equation at a time. Sometimes we work with more than one equation at once. The following: ",
+        "bbox": [
+            143,
+            801,
+            854,
+            843
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f0c178500e40faf224ec76c3a0cc32e7c072e25c031d3c1db90e43ccfaeba59f.jpg",
+        "text": "$$\n\\begin{array} { l } { \\mathbf { y } = 2 \\mathbf { x } } \\\\ { \\mathbf { y } = - \\mathbf { x } - 3 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            199,
+            861,
+            299,
+            906
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "is called a system of equations. The solution to a system of equations must satisfy both equations. There are several different methods to accomplish this. We will review two: graphing and substitution. ",
+        "bbox": [
+            143,
+            109,
+            848,
+            171
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Graphing: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            212,
+            250,
+            233
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "What does the graph for a system of equations look like? Well, one equation makes a line, so two equations make….two lines! For the above example, the graph would look like this: ",
+        "bbox": [
+            143,
+            252,
+            854,
+            314
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c2176b806f8333d70bc0fd2f25fe6156f3b7379f857444e87a3821a6d724dac.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            143,
+            352,
+            609,
+            574
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Since each point on a line is a solution to the equation – the point that satisfies both equations is the point where they intersect. The solution for this system of equations is the point (1, 2). ",
+        "bbox": [
+            143,
+            593,
+            825,
+            655
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Your tur ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            675,
+            241,
+            694
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "n: Solve the system of equations by graphing: ",
+        "bbox": [
+            228,
+            674,
+            643,
+            695
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "img_path": "images/353439d7d7d1c1484f8793171e4f5ed795f19e065a568aef4aad711d4d84d16d.jpg",
+        "text": "$$\n\\begin{array} { c } { { \\bf y } = - { \\bf 1 } / 2 { \\bf x } - 2 } \\\\ { { \\bf y } = - 7 / 2 { \\bf x } + 4 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            258,
+            695,
+            395,
+            739
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[You should get (2, -3)] ",
+        "bbox": [
+            143,
+            756,
+            303,
+            771
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Note: Often we need to solve the equations for y-intercept form before graphing them. ",
+        "bbox": [
+            143,
+            811,
+            800,
+            853
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Substitution: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            90,
+            272,
+            111
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We can also solve systems of equations by substitution. Let’s look at another example: ",
+        "bbox": [
+            145,
+            131,
+            787,
+            171
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ffded2e183608c5370b4421be173d5902cd8228765a675a0c7c59c489f724fde.jpg",
+        "text": "$$\n\\begin{array} { c } { { - 2 { \\bf x } + { \\bf y } = { \\bf - 1 } } } \\\\ { { { \\bf x } - 2 { \\bf y } = { \\bf - 4 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            171,
+            326,
+            214
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To use the substitution method, we first need to solve one equation for either $\\mathbf { X }$ or $\\mathbf { y }$ . Looking at the equations, the first one could easily be solved for y without dividing, or the second equation could be solved for $\\mathbf { X }$ . Either choice works fine. Let’s start with the first equation. ",
+        "bbox": [
+            143,
+            213,
+            851,
+            294
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "img_path": "images/77e7aa5cf1d986687dd8fd770eead7cfa4e976c8ee6ad52d7e3b38dbdae110ad.jpg",
+        "text": "$$\n\\begin{array} { c } { { - 2 { \\bf x } + { \\bf y } = { \\bf - 1 } } } \\\\ { { + 2 { \\bf x } + 2 { \\bf x } } } \\\\ { { { \\bf y } = 2 { \\bf x } - 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            197,
+            310,
+            343,
+            378
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "So our two equations now look like this: ",
+        "bbox": [
+            143,
+            395,
+            517,
+            415
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ea83a8b371617a7303bcaaa35e9886680c7b1e91d612b49e067e384b9abd2ec4.jpg",
+        "text": "$$\n\\begin{array} { l } { \\mathrm { y } = 2 \\mathrm { x } - 1 } \\\\ { \\mathrm { x } - 2 \\mathrm { y } = - 4 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            197,
+            415,
+            308,
+            459
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Now we know y is equal to $2 \\mathbf { x } - 1$ . We can SUBSTITUTE this equality for y in the second equation. ",
+        "bbox": [
+            142,
+            476,
+            843,
+            517
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "img_path": "images/7389d5457a3664f9390baa81048abb7560105b057d498d4c7aebdd2d694a17c0.jpg",
+        "text": "$$\n\\begin{array} { l } { \\widehat { \\mathbf { x } _ { \\mathbf { \\delta } } - 2 \\widehat { ( \\mathbf { \\delta } } } } \\\\ { \\mathbf { x } _ { \\mathbf { \\delta } } - 4 \\mathbf { x } _ { \\mathbf { \\delta } } + 2 = - 4 \\mathbf { \\delta } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            621,
+            370,
+            679
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We know that $\\mathbf { y } = 2 \\mathbf { x } - \\mathbf { 1 }$ , so anywhere we see y in the other equation, we substitute ${ \\bf 2 x - 1 }$ . ",
+        "bbox": [
+            552,
+            542,
+            777,
+            613
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Don’t forget to distribute your negative sign… ",
+        "bbox": [
+            552,
+            630,
+            754,
+            666
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Now we know half the solution, $\\mathbf { x } = 2$ ",
+        "bbox": [
+            553,
+            683,
+            738,
+            718
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The point where the lines will intersect is (2, _) ",
+        "bbox": [
+            553,
+            734,
+            756,
+            771
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "img_path": "images/76a02691845f8386388785d04e2ce9ee307b2c2915f035f6dbf797bfbd512cf7.jpg",
+        "text": "$$\n\\begin{array} { l } { \\mathbf { y } = 2 ( 2 ) - 1 } \\\\ { \\mathbf { y } = 4 - 1 } \\\\ { \\mathbf { y } = 3 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            199,
+            821,
+            312,
+            886
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "But since $\\mathbf { x } = 2$ , we can substitute 2 in for $\\mathbf { X }$ in either of the equations and solve for y to find the other value of our point (2, 3) ",
+        "bbox": [
+            552,
+            825,
+            781,
+            915
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Your turn: solve by substitution: ",
+        "bbox": [
+            147,
+            89,
+            446,
+            111
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "img_path": "images/bce19446c585d891fdfd1f0b7e0cada60d80dc3e628f79661d42e4f22c49c5b4.jpg",
+        "text": "$$\n\\begin{array} { l } { \\mathbf { x } = 3 \\mathbf { y } } \\\\ { \\mathbf { y } = \\mathbf { x } + 4 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            256,
+            111,
+            352,
+            154
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[You should get ( -6, -2)] ",
+        "bbox": [
+            145,
+            171,
+            313,
+            188
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Laws of Exponents ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            227,
+            333,
+            248
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The laws of exponents give us rules for dealing with powers of variables and numbers that have the same base. Here are some of the basics. ",
+        "bbox": [
+            138,
+            267,
+            856,
+            308
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Law ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            332,
+            191,
+            348
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Explanation ",
+        "text_level": 1,
+        "bbox": [
+            388,
+            332,
+            511,
+            349
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Example ",
+        "bbox": [
+            638,
+            330,
+            826,
+            369
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { A } ^ { \\mathrm { n } } = ( \\mathbf { A } ^ { \\ast } \\mathbf { A } ^ { \\ast } \\mathbf { A } ^ { \\ast } \\mathbf { A } . \\dots n$ times) ",
+        "bbox": [
+            143,
+            351,
+            344,
+            390
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "img_path": "images/4ccc1f160f8c8caff70fb2d881479223d79a183777d4c6d605e878350ab2f65c.jpg",
+        "text": "$$\n\\mathrm { A ^ { m * } A ^ { n } = A ^ { m + n } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            143,
+            409,
+            281,
+            431
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "img_path": "images/a5f5723dcfc74519f6145ea1aafac2ff7e85ca7e87602749789bd7cda956472d.jpg",
+        "text": "$$\n( \\mathbf { A } ^ { \\mathrm { m } } ) ^ { \\mathrm { n } } = \\mathbf { A } ^ { \\mathrm { m } ^ { * } \\mathrm { n } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            142,
+            468,
+            267,
+            494
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "img_path": "images/73151ee665458b957f401fe63d8054926e645cbc56fd464b494d7d8315febf63.jpg",
+        "text": "$$\n\\frac { \\mathbf { A } ^ { \\mathrm { n } } } { \\mathbf { A } ^ { \\mathrm { m } } } \\mathrm { = \\mathbf { A } ^ { \\mathrm { n - m } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            142,
+            531,
+            236,
+            573
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "An exponent is a base $5 ^ { 4 } = 5 ^ { \\ast } 5 ^ { \\ast } 5 ^ { \\ast } 5 = 6 2 5$ $( A )$ multiplied by itself $n$   \ntimes.   \nWhen multiplying two $\\mathbf { X } ^ { 5 * } \\mathbf { X } ^ { 2 } = \\mathbf { X } ^ { 7 }$   \npowers, add the   \nexponents.   \nWhen raising a power to $( \\mathrm { y } ^ { 4 } ) ^ { 2 } =$   \nanother power, multiply   \nthe exponents.   \nWhen dividing powers, $\\frac { 2 ^ { 3 } } { 2 ^ { 2 } } = 2 ^ { 3 - 2 } = 2 ^ { 1 } = 2$ subtract the power of the   \ndenominator(bottom)   \nexponent from the   \nnumerator(upper) one.   \nAny number raised to the $5 8 7 ^ { 0 } = 1$   \npower of 0 equals 1   \nWhen you have a $\\mathbf { x } ^ { - 3 } = \\underline { { 1 } } _ { 3 }$   \nnegative exponent, it   \nmeans inverse, (the   \nnegative exponent is an $\\frac { 5 } { x ^ { - 3 } } = 5 x ^ { 3 }$   \noperation that “flips”   \nonly the base that it   \napplies to). ",
+        "bbox": [
+            387,
+            340,
+            828,
+            818
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "img_path": "images/234178a6b2bd61ede413c303d28ad2dd0a9fc2ddfe066221745ff88a5d8fbcf2.jpg",
+        "text": "$$\n\\mathbf { A } ^ { 0 } = 1\n$$",
+        "text_format": "latex",
+        "bbox": [
+            143,
+            631,
+            207,
+            655
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e382f13bf3809fabfcff662d63fe661202eee27f0d4d5b1e36a4be0959696b55.jpg",
+        "text": "$$\n\\mathrm { \\bf A } ^ { \\mathrm { * n } } = \\mathrm { \\underline { { 1 } } } _ { \\mathrm { \\bf A } ^ { \\mathrm { n } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            143,
+            694,
+            222,
+            736
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Simplify: ",
+        "bbox": [
+            155,
+            80,
+            233,
+            98
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "img_path": "images/06d9bcfcc8877055505a1d57816234fd8326467fc12013e9d5f90729e98b865e.jpg",
+        "text": "$$\n\\begin{array} { l } { { ( - 6 { \\bf { p } } ^ { 2 } { \\bf { q } } ) ( - 4 { \\bf { p } } ^ { 4 } { \\bf { q } } ^ { 5 } ) } } \\\\ { { \\ } } \\\\ { { = ( - 6 ) ( - 4 ) { \\bf { p } } ^ { 2 + 4 } { \\bf { q } } ^ { 1 + 5 } } } \\\\ { { \\ } } \\\\ { { = 2 4 { \\bf { p } } ^ { 6 } { \\bf { q } } ^ { 6 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            153,
+            111,
+            297,
+            205
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Check for order of operations first. We can multiply coefficients together then use the laws of exponents to combine bases that are alike. ",
+        "bbox": [
+            524,
+            80,
+            718,
+            202
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Simplify: ",
+        "bbox": [
+            155,
+            237,
+            233,
+            256
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "When we multiply powers, we add the exponents. ",
+        "bbox": [
+            522,
+            220,
+            683,
+            272
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "img_path": "images/59f91ab6fd3c81ee9904bd84ec621a4ba7424a36119450803efaa3a1c89d27f3.jpg",
+        "text": "$$\n{ \\begin{array} { r l } & { 5 \\mathbf { x } ^ { - 2 } - 3 + 2 \\mathbf { x } ^ { 0 } } \\\\ & { } \\\\ & { = { \\frac { 5 } { x ^ { 2 } } } \\ - 3 + 2 ( 1 ) } \\\\ & { } \\\\ & { = { \\frac { 5 } { x ^ { 2 } } } . 1 } \\end{array} }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            153,
+            266,
+            284,
+            396
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Note: If the base has a power of 1 you may want to write it in so you don’t forget to add the power. ",
+        "bbox": [
+            522,
+            306,
+            723,
+            395
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Your turn : x5(x2)-3 [you should get x11] ",
+        "bbox": [
+            143,
+            454,
+            297,
+            498
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            143,
+            515,
+            279,
+            532
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Multiplying Polynomials – FOIL ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            627,
+            468,
+            650
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "When multiplying polynomials, we need to make sure to distribute each of the terms to every other term. There are several ways of doing this; we will focus on the most common one. ",
+        "bbox": [
+            143,
+            667,
+            841,
+            728
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Do you remember FOIL? FOIL is an acronym we use to help us multiply polynomials. FOIL stands for First, Outer, Inner, Last. It depicts the order in which we multiply. Let’s try an example: ",
+        "bbox": [
+            143,
+            748,
+            841,
+            810
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Simplify: ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            830,
+            236,
+            852
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "img_path": "images/d00b3ada01d5aeb410b0a1b144dfbb5fe01e56703bcb6a68720935f415928057.jpg",
+        "text": "$$\n( 2 \\mathbf { x } + \\mathbf { 1 } ) ( \\mathbf { x } - 2 )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            259,
+            871,
+            401,
+            893
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2712fdb602b44a7dadc930a7b3c36196404023bfacc90ba894505bc963a4523.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            264,
+            112,
+            379,
+            154
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ec8c8075189b696bf83494f45d729e5bc7329458085cf1e48cc771ee12d1758.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            261,
+            175,
+            343,
+            199
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/008106e64cf66bcf26ecf13d07b5fcba7d8b472dd3d7c8c2e76eb1ad0e957aaf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            266,
+            218,
+            385,
+            265
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3f770c454bc064746ffc1ea268ad938524f2861ccefe9232816c74ed173ccc0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            261,
+            282,
+            413,
+            306
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2x2 – x – 2 ",
+        "bbox": [
+            261,
+            324,
+            370,
+            344
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Our first step is to multiply the first terms together (red). Then we multiply the outer terms (blue). ",
+        "bbox": [
+            611,
+            82,
+            799,
+            169
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Next, we multiply the inner terms (green), followed by the last terms (pink). ",
+        "bbox": [
+            611,
+            185,
+            789,
+            256
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Now, we combine like terms and our answer is simplified! ",
+        "bbox": [
+            611,
+            272,
+            794,
+            325
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $( 2 \\mathbf { x } + 3 ) ( \\mathbf { x } - \\mathbf { 1 } )$ ",
+        "bbox": [
+            145,
+            405,
+            397,
+            428
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Quadratics ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            564,
+            258,
+            584
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Quadratic equations are equations that have a variable to the second power, like $\\mathbf { x } ^ { 2 } + \\mathbf { x } = \\mathbf { \\hat { 6 } }$ . Since $\\mathbf { x } ^ { 2 }$ and x are not like terms they can not be combined. We need a new way for finding solutions to quadratic equations. ",
+        "bbox": [
+            145,
+            603,
+            839,
+            665
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Solving by factoring: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            685,
+            351,
+            707
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "To solve an equation by factoring, one side of the equation must be equal to zero. In the equation $3 { \\bf { \\bar { x } } } ^ { 2 } = { \\bf { x } }$ . We would need to subtract $\\mathbf { X }$ from both sides, so we would have $3 \\mathbf { x } ^ { 2 } - \\mathbf { x } |$ . ",
+        "bbox": [
+            143,
+            726,
+            846,
+            787
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Our goal with factoring is to find two terms that multiply together to give us zero. Since $\\mathbf { X }$ is a factor in both $3 \\mathrm { { x } } ^ { 2 }$ and $\\mathbf { X }$ , we can factor out an x from the equation and rewrite it, $\\mathbf { x } \\Vdash ( 3 \\mathbf { x } - \\mathbf { 1 } ) = \\mathbf { 0 }$ ",
+        "bbox": [
+            143,
+            808,
+            828,
+            869
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In order for two terms to multiply together and result in zero, ONE OF THEM MUST BE ZERO. This is the reason factoring works! ",
+        "bbox": [
+            145,
+            109,
+            794,
+            150
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8f81e1e23fe765a30f66fcfdd85ef20214574bb5414dcc32fd1e112c681405f5.jpg",
+        "text": "$$\n\\mathbf { x } \\perp ( 3 \\mathbf { x } - \\mathbf { 1 } ) = \\mathbf { 0 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            377,
+            151,
+            516,
+            172
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Think about it for a minute, we know that only 0 times __ $= 0$ . So, either x must equal 0 or $\\mathbf { 3 x - 1 }$ must equal 0. ",
+        "bbox": [
+            143,
+            172,
+            834,
+            212
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f018c0c0f353c19502a023e8c0bf1eadc72e65add3b6ae88e4e395d4ef1b8fc3.jpg",
+        "text": "$$\n\\mathbf { x } = 0 \\qquad ( 3 \\mathbf { x } - 1 ) = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            259,
+            231,
+            496,
+            253
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Actually, they both do! Since we are solving a quadratic equation we can have up to 2 solutions. We already know that one of them is $\\mathbf { x } = \\mathbf { 0 }$ . To find ",
+        "bbox": [
+            143,
+            272,
+            843,
+            314
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "the other, we solve: ",
+        "bbox": [
+            145,
+            315,
+            326,
+            333
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "img_path": "images/961586e49a6969719cd312d955030e325bf88d34f67d3e8e0610e2f36841c24c.jpg",
+        "text": "$$\n\\begin{array} { l } { 3 \\mathrm { x } - \\mathbf { 1 } = \\mathbf { 0 } } \\\\ { 3 \\mathrm { x } = 1 } \\\\ { \\mathrm { x } = \\displaystyle \\frac { 1 } { 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            375,
+            313,
+            480,
+            393
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Let’s do another one. ",
+        "bbox": [
+            145,
+            414,
+            341,
+            434
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "To solve the equation $\\mathbf { x } ^ { 2 } + \\mathbf { x } = 6$ , one side of the equation must be equal to zero. Subtracting the 6 from both sides we have $\\mathbf { x } ^ { 2 } + \\mathbf { x } - \\mathbf { 6 } = \\mathbf { 0 }$ . But how can we factor $\\mathbf { x } ^ { 2 } + \\mathbf { x } - \\mathbf { 6 ? }$ ",
+        "bbox": [
+            143,
+            452,
+            854,
+            515
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "When we use FOIL to multiply polynomials we know that it takes two binomials to produce such a result, so when we factor, we are trying to figure out what those two binomials are. In order to do this, we have “undo” FOIL. ",
+        "bbox": [
+            143,
+            535,
+            852,
+            617
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "To get your First terms, we need to find two terms that will multiply together to give you the first term in your quadratic equation. Since the first term is $\\mathbf { x } ^ { 2 }$ , we only have one choice, $x \\cdot x$ . Our first term in each polynomial must be $\\mathbf { X }$ . ",
+        "bbox": [
+            143,
+            637,
+            848,
+            718
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(x )(x ) ",
+        "bbox": [
+            202,
+            719,
+            328,
+            741
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Our Last terms are a bit trickier. This is where factoring becomes like a bit like a puzzle. The last terms must add together to give us 1 (the coefficient next to the x variable), and multiply together to give us -6 (the constant term in your equation). Let’s list all of the factors of six: 1, 6 and 2, 3. Since we’re trying to get a negative 6, we know that one of these numbers must be negative. Let’s try 1, 6. If we add $6 + ( - 1 )$ , we get 5, and if we add $( - 6 ) + 1$ , you get -5… Not what we’re looking for. What about 2, 3? If we add (-3) ",
+        "bbox": [
+            143,
+            758,
+            849,
+            904
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "$+ 2$ , we get -1, but if we add $( - 2 ) + 3$ , we get 1, which is exactly what we are looking for. We now know that one set of parentheses must have a -2, and the other must have a three. ",
+        "bbox": [
+            143,
+            89,
+            849,
+            151
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8c78ecf776f8f03d5d8a83bcc56f39542f820dd3743bda29dc0c2ba51f402b7f.jpg",
+        "text": "$$\n( \\mathrm { x } - 2 ) ( \\mathrm { x } + 3 ) = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            170,
+            369,
+            194
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Again, we know that two things multiplied together will only equal zero if one of them is zero. So we set $\\mathbf { x } - 2$ and $\\mathbf { x } + \\mathbf { 3 }$ equal to zero and solve for x. ",
+        "bbox": [
+            143,
+            212,
+            848,
+            252
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "img_path": "images/fb53a18ba46c6f3685218d3506b7df5a59bdc0a827f10b6ca2b886e15bdb77cc.jpg",
+        "text": "$$\n\\begin{array} { l l } { { { \\bf x } - 2 = { \\bf 0 } \\qquad } } & { { { \\bf x } + 3 = { \\bf 0 } } } \\\\ { { { \\bf x } = 2 \\qquad } } & { { { \\bf x } = - 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            199,
+            252,
+            467,
+            295
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Our solutions to the quadratic equation are $\\mathbf { x } = \\mathbf { - } 3$ and 2. ",
+        "bbox": [
+            143,
+            314,
+            665,
+            334
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Let’s try another example: ",
+        "bbox": [
+            145,
+            354,
+            390,
+            375
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "img_path": "images/2e1da5535758bf05d54a561a38cf5cde084ed2c598ba1d2b14d1494e2bec9300.jpg",
+        "text": "$$\n2 \\mathrm { { x } ^ { 2 } - 7 \\mathrm { { x } - 4 = 0 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            142,
+            391,
+            297,
+            416
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "This one’s a bit harder because of the 2 in front of the $\\mathbf { x } ^ { 2 }$ . When setting up our parentheses, we have to think about how our First terms can multiply together to give us 2. The only way to do this is by $2 \\mathbf { x }$ and $\\mathbf { X }$ . ",
+        "bbox": [
+            361,
+            393,
+            952,
+            449
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(2x )(x ) ",
+        "bbox": [
+            143,
+            477,
+            282,
+            500
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Here, it really becomes a puzzle. We have to find two numbers that multiply together to give us four. Because of the 2 in front of the $\\mathbf { x } ^ { 2 }$ , we know that double one of these numbers plus the other must give us -7. Luckily 4 has only two sets of factors: 1 & 4 and 2 & 2. One of these must be negative and one positive, since the 4 is negative. If you double -4, you get -8. If you add 1 to -8, you get -7, which is exactly what we are looking for. Since the 4 must be multiplied by the 2 in the first set of parentheses, it has to go in the other set of parenthesis. ",
+        "bbox": [
+            357,
+            473,
+            957,
+            616
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2x + 1 = 0   \n- 1 -1 ",
+        "bbox": [
+            143,
+            640,
+            245,
+            681
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Then solve both for 0 to find our solutions. ",
+        "bbox": [
+            495,
+            679,
+            834,
+            698
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $2 { \\bf x } ^ { 2 } + 7 { \\bf x } = - 4$ [You should get $\\mathbf { x } = - 3$ and -1/2] ",
+        "bbox": [
+            147,
+            840,
+            372,
+            863
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            143,
+            891,
+            362,
+            907
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Solving by the Quadratic Formula: ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            90,
+            490,
+            112
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "img_path": "images/389a791e61cc58892dccdf09564d1be7d412e76f809dd44833785a17d3a73460.jpg",
+        "text": "$$\n\\mathbf { x } = { \\frac { - b \\pm { \\sqrt { b ^ { 2 } - 4 a c } } } { 2 a } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            318,
+            126,
+            480,
+            172
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Factoring can be the easiest way to solve a quadratic equation when the coefficient of $\\mathbf { x } ^ { 2 }$ is one. But as the equations get harder there is another strategy we can use. The quadratic formula solves equations of the form: ",
+        "bbox": [
+            143,
+            189,
+            818,
+            251
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "img_path": "images/008d8efe5d2cf019a634362bd6cbe02ee1127e7b47fcd2d0cd516dd63e57a7fb.jpg",
+        "text": "$$\n\\mathbf { a x } ^ { 2 } + b { \\dot { x } } + c = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            320,
+            248,
+            473,
+            270
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "( the equation must be solved for zero). ",
+        "bbox": [
+            558,
+            255,
+            818,
+            271
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where; ",
+        "bbox": [
+            143,
+            272,
+            210,
+            290
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "a is the coefficient (“number” of $\\mathbf { x } ^ { 2 } \\mathbf { \\bar { s } }$ we have) of $\\mathbf { x } ^ { 2 }$ b is the coefficient (“number” of x’s we have) of x, and c is the constant term of our equation when solved for zero. ",
+        "bbox": [
+            200,
+            290,
+            750,
+            353
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In the equation, $\\mathbf { x } ^ { 2 } + \\mathbf { x } - 6 = 0$ , ",
+        "bbox": [
+            145,
+            371,
+            428,
+            392
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { a } { } = 1$ , $\\mathsf { b } = 1$ and $\\mathtt { c } = \\mathtt { - } 6$ . By substituting these values of a, b, and c into the quadratic formula we are able to solve for x. ",
+        "bbox": [
+            145,
+            393,
+            807,
+            433
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "img_path": "images/10aaac10ec883e150e8d2bc6a4f37c8db1c1054a80b8337290207a3586d6ff1d.jpg",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\mathbf { x } = \\frac { - b \\pm \\sqrt { b ^ { 2 } - 4 a c } } { 2 a } } \\\\ { \\displaystyle x = \\frac { - 1 \\pm \\sqrt { ( \\mathbf { \\vec { l } } ) ^ { 2 } - ( 4 ) ( \\mathbf { \\vec { l } } ) ( - 6 ) } } { ( 2 ) ( 1 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            318,
+            433,
+            537,
+            546
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "img_path": "images/37152cab90c738b6e0ef80579ab5d46d4d5b5dcba98da3f6e3a81ede1bac1bb1.jpg",
+        "text": "$$\n\\scriptstyle x = { \\frac { - 1 \\pm { \\sqrt { 1 - ( - 2 4 ) } } } { 2 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            323,
+            568,
+            482,
+            713
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "img_path": "images/0d8fb25af735b09e6cf47e4778882766d32c0b81d5d1cac16a98165cbfd30110.jpg",
+        "text": "$$\nx = { \\frac { - 1 - 5 } { 2 } } x = { \\frac { - 1 + 5 } { 2 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            323,
+            736,
+            503,
+            772
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "img_path": "images/900dd06b3ba85b18717dc1071fde001505291f6368c8e526bed9e8fa77a67e06.jpg",
+        "text": "$$\nx = { \\frac { - 6 } { 2 } } x = { \\frac { 4 } { 2 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            323,
+            795,
+            444,
+            832
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "img_path": "images/5cae711239929c34bd3d517725cf6e1959821fe7c7dd973d3b36afa7f6c947f4.jpg",
+        "text": "$$\n\\mathbf { x } = - 3 , 2\n$$",
+        "text_format": "latex",
+        "bbox": [
+            320,
+            853,
+            401,
+            875
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Make sure that when $-$ is squared that it is in parenthesis. If it isn’t, and the value is negative, we’ll get the wrong solution. ",
+        "bbox": [
+            640,
+            527,
+            892,
+            616
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Be careful with the signs inside the radical. Remember, negative times a negative equals a positive. ",
+        "bbox": [
+            640,
+            632,
+            900,
+            703
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Notice that there are TWO solutions. ",
+        "bbox": [
+            642,
+            719,
+            854,
+            756
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $3 \\mathbf { x } ^ { 2 } + 1 3 \\mathbf { x } = 1 0$ (hint, make sure to solve the equation for zero before using the quadratic equation) ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            87,
+            818,
+            132
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[You should get $\\mathbf { x } = - 5$ and 2/3] ",
+        "bbox": [
+            148,
+            150,
+            359,
+            166
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Applications ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            207,
+            271,
+            229
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Quadratics functions are often used to model many situations. They can be solved using the methods above. ",
+        "bbox": [
+            145,
+            247,
+            838,
+            287
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Geometry – area/perimeter: ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            308,
+            421,
+            329
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Let’s take a look at the following problem: ",
+        "bbox": [
+            143,
+            348,
+            539,
+            369
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Your dorm room has a perimeter (P) of 46ft and an area (A) of $1 2 0 \\mathrm { f t } ^ { 2 }$ . What are the dimensions of your dorm? ",
+        "bbox": [
+            243,
+            388,
+            700,
+            426
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "At first this may not look like a quadratic at all! But as we work through the problem, we’ll see how it relates. ",
+        "bbox": [
+            147,
+            469,
+            848,
+            511
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "img_path": "images/a56af24c576df125eaebc46248f28e9e54df458b7639eae2b11fcfc113e9b6d9.jpg",
+        "text": "$$\n\\mathbf { P } = 2 \\mathbf { L } + 2 \\mathbf { w }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            551,
+            326,
+            574
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "We know from geometry that the formula for perimeter is $\\mathbf { P } = 2 \\mathbf { L } + 2 \\mathbf { w }$ . ",
+        "bbox": [
+            449,
+            537,
+            784,
+            574
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "img_path": "images/96ea691ce3741854640512dc0fe7364bff7519d3a8175dfbb1981ad7909106e7.jpg",
+        "text": "$$\n4 6 = 2 \\mathrm { L } + 2 \\mathrm { w }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            612,
+            334,
+            633
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Since our perimeter is 46, we just plug that number into the formula. ",
+        "bbox": [
+            449,
+            590,
+            792,
+            626
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "img_path": "images/603772d8c74768a526246f9009715b3e90a92b48e56e16b5cde48f2092dfeda6.jpg",
+        "text": "$$\n2 3 = \\mathrm { L } + \\mathrm { w }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            672,
+            312,
+            695
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2 is a common factor on all sides, so we divide both sides by 2. ",
+        "bbox": [
+            449,
+            642,
+            769,
+            679
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "What else do we know….Area ",
+        "bbox": [
+            147,
+            714,
+            429,
+            734
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "img_path": "images/d4716b4ea93ef51eb29c9b013e3765c932c34306dfdff3c03ca3802ad93cd88c.jpg",
+        "text": "$$\n\\mathbf { A } = ( \\mathbf { L } ) ( \\mathbf { w } )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            753,
+            313,
+            779
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "img_path": "images/86f634c19c8baba8532acb97a1d12f8e1a464833853ab68a739d15a45a97ba01.jpg",
+        "text": "$$\n1 2 0 = \\mathrm { ( L ) ( w ) }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            815,
+            328,
+            838
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Now, we have a system of equations: ",
+        "bbox": [
+            143,
+            858,
+            488,
+            877
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "img_path": "images/20427981c613fcaf820c0fdf0b78cdeba4dc469f5a53c8d981f71a7656a4bbe3.jpg",
+        "text": "$$\n\\begin{array} { l } { 2 3 = \\mathrm { L } + \\mathrm { w } } \\\\ { 1 2 0 = \\mathrm { ( L ) } ( \\mathrm { w } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            199,
+            88,
+            326,
+            133
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Let’s solve using substitution. ",
+        "bbox": [
+            145,
+            151,
+            421,
+            171
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "img_path": "images/a2527da7c81fd894291377277464ef4793b0daab8eb65e20a4c0f0825ac64425.jpg",
+        "text": "$$\n\\begin{array} { l } { 2 3 = { \\bf \\delta } } \\\\ { { \\bf L } = { \\bf \\delta } } \\end{array} + { \\bf w }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            196,
+            188,
+            312,
+            236
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Solve the first equation for L by subtracting w from both sides of the equation. ",
+        "bbox": [
+            449,
+            186,
+            738,
+            241
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Substitute 23 – w for L and solve for zero. ",
+        "bbox": [
+            449,
+            306,
+            745,
+            342
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "img_path": "images/84f6b8be749a6d04e2b804244710bc4a76bbdb21622d453a36a372ff3d42aa0f.jpg",
+        "text": "$$\n\\mathbf { w } ^ { 2 } - 2 3 \\mathbf { w } + 1 2 0 = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            371,
+            388,
+            395
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Look familiar? It is a quadratic. Since the coefficient of $w$ is one, let’s see if we can factor this equation. ",
+        "bbox": [
+            143,
+            455,
+            856,
+            497
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "img_path": "images/9625b38216c64d9ecdd9724c2ef1ee5004f49bd4dfb41a036b62475fa3bb2ff7.jpg",
+        "text": "$$\n\\begin{array} { l } { { \\mathrm { w } ^ { \\mathrm { - } } - 2 3 \\mathrm { w } + 1 2 0 = 0 } } \\\\ { { \\ } } \\\\ { { \\mathrm { ( w \\mathrm { ~  ~ \\lambda ~ ) ( w ~ \\epsilon ~ ) ~ } } } } \\\\ { { \\ } } \\\\ { { \\mathrm { ( w - \\mathrm { ~  ~ \\lambda ~ ) ( w - \\mathrm { ~ \\epsilon ~ } ) ~ } } } } \\\\ { { \\ } } \\\\ { { \\mathrm { ( w - \\mathrm { ~  ~ \\lambda ~ ) ( w - \\mathrm { ~ \\it ~ 1 5 ) = 0 ~ } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            197,
+            531,
+            390,
+            686
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The only way to get w2 is w times w so we have our first terms. We just need to find two numbers that multiply to 120 but add to negative 23. ",
+        "bbox": [
+            521,
+            529,
+            720,
+            655
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "We get $\\mathrm { w } = 8$ or $\\mathbf { w } = 1 5$ . Since width is usually the smaller of the two, I would pick 8, but it doesn’t really matter. If $\\mathrm { w } = 8$ , plug that back in to either of your original equations. ",
+        "bbox": [
+            143,
+            699,
+            808,
+            762
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e8fc68c54189ceaae82b3c3f6cc71371d909cc539afe75c841ef86a737b15831.jpg",
+        "text": "$$\n\\begin{array} { l } { { 2 3 = \\mathrm { L } + 8 } } \\\\ { { \\mathrm { L } = 1 5 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            197,
+            779,
+            307,
+            824
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "So the room is 15 ft by 8 ft. ",
+        "bbox": [
+            143,
+            842,
+            400,
+            863
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Another quadratic application: ",
+        "bbox": [
+            147,
+            90,
+            426,
+            111
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The height, $\\mathrm { h }$ , of an arrow shot up in the air can be approximated by the equation $\\mathrm { h } = 1 2 8 \\mathrm { t } - 1 6 \\mathrm { t } ^ { 2 }$ where t is time in seconds. How long does it take for the arrow to reach 240 feet in the air? ",
+        "bbox": [
+            145,
+            131,
+            825,
+            190
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "First, we need to determine what the question is talking about. There are two variables here, t, and h. The height of the arrow depends on the time it is in the air, so we are talking about (t, h). ",
+        "bbox": [
+            143,
+            212,
+            838,
+            273
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Next, we need to figure out what information we are given. We have the equation: $\\mathrm { h } = 1 2 8 \\mathrm { t } - 1 6 \\mathrm { t } ^ { 2 }$ . Additionally, we are told that the arrow is to reach 240 feet in the air – that is height. So we are trying to find the time that the arrow reaches 240 feet or (__, 240). ",
+        "bbox": [
+            143,
+            292,
+            821,
+            376
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "By substituting into the equation, ",
+        "bbox": [
+            147,
+            395,
+            452,
+            415
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c6780b59eb8775f612f3f0e603e6ca0b6ad3cb131cfb9ddb50f8156091167e4d.jpg",
+        "text": "$$\n2 4 0 = \\dot { 1 } 2 8 \\mathrm { t } - 1 6 \\mathrm { t } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            318,
+            414,
+            485,
+            435
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "We can solve using the quadratic formula. We need to solve the equation for zero before we begin the quadratic formula. ",
+        "bbox": [
+            142,
+            455,
+            823,
+            496
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "So, $\\mathtt { a } = - 1 6 , \\mathtt { b } = 1 2 8$ and $\\mathtt { c } = - 2 4 0$ ",
+        "bbox": [
+            143,
+            517,
+            450,
+            536
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "We will find solutions to this quadratic equation at ",
+        "bbox": [
+            143,
+            558,
+            612,
+            578
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "img_path": "images/6820ab2d32c59d87c7d1c841f6bec8affcc4e76ca20e335141f8ca632e6fae8d.jpg",
+        "text": "$$\n{ \\begin{array} { r l } { 1 = } & { { \\frac { - b + { \\sqrt { b ^ { 2 } - 4 a c } } } { 2 a } } } \\\\ { 1 = } & { { \\frac { - 1 2 8 \\pm { \\sqrt { \\mathrm { 1 2 8 ^ { 2 } - 4 - 1 6 \\ { \\sqrt { \\mathrm { 2 4 0 } } } } } } } { 2 - 1 6 } } } \\\\ { 1 = } & { { \\mathrm { - 1 2 8 \\ { \\sqrt { 6 3 8 4 - 1 5 3 6 0 } } } } } \\\\ { 1 = } & { { \\mathrm { - 1 2 8 \\ { \\sqrt { 6 3 8 4 - 1 5 3 6 0 } } } } } \\\\ & { - 3 2 } \\\\ { 1 = } & { - 1 2 8 \\pm 3 2 } \\\\ { 1 = 3 } & { { \\mathrm { o r ~ } } 1 = 5 } \\end{array} }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            256,
+            577,
+            563,
+            843
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "So the arrow is at 240 feet in the air twice, once at 3 seconds on its way up, and again at 5 seconds on its way down. ",
+        "bbox": [
+            143,
+            858,
+            836,
+            900
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Your turn: A baseball is hit and its height in feet, t seconds later can be approximated by $\\mathrm { h } = - 1 6 \\mathrm { t } ^ { 2 } + 4 0 \\mathrm { t } + 4$ . When does the ball hit the ground? (hint: the height of the ball on the ground is zero) ",
+        "bbox": [
+            143,
+            88,
+            815,
+            152
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "[you get 2.6 seconds] ",
+        "bbox": [
+            143,
+            171,
+            287,
+            186
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Rational Expressions ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            227,
+            354,
+            248
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "A rational expression is an expression that can be written as a fraction where the variable is in the denominator (on bottom). There is one very important rule when dealing with rational terms. The denominator may not be zero. ",
+        "bbox": [
+            143,
+            267,
+            841,
+            348
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The domain (possible values of x) is all real numbers except for values that make the denominator equal to zero. ",
+        "bbox": [
+            143,
+            368,
+            841,
+            410
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "For the expression ${ \\frac { 1 } { \\mathbf { x } + 5 } } \\qquad \\quad \\mathbf { x } + 5 = 0$ $\\mathbf { x } = - 5$ is not allowed in the domain. ",
+        "bbox": [
+            143,
+            429,
+            586,
+            492
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            259,
+            511,
+            591,
+            531
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Simplifying rational expressions ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            551,
+            464,
+            574
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1) Factor the numerator and denominator if possible. ",
+        "bbox": [
+            147,
+            592,
+            630,
+            613
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2) Find the values that make the denominator equal to zero. ",
+        "bbox": [
+            143,
+            632,
+            692,
+            654
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "3) Rewrite to show a fraction equal to 1. ",
+        "bbox": [
+            143,
+            674,
+            516,
+            694
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "4) Cancel any like FACTORS (remember they have to be factors, multiplied, to cancel). ",
+        "bbox": [
+            142,
+            714,
+            754,
+            756
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Let’s try an example: ",
+        "bbox": [
+            145,
+            776,
+            341,
+            796
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "img_path": "images/9122a8bbeffa3a3b80d186ff2493c8a885e331fd68273a0a56f4c033041d6506.jpg",
+        "text": "$$\n\\frac { 3 x ^ { 2 } - 1 6 x - 1 2 } { x ^ { 2 } - 1 2 x + 3 6 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            209,
+            825,
+            331,
+            868
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "I know what you’re thinking. Why don’t we cross out the two twelves? We can’t! They are not multiplied, they are added (and they aren’t the same terms). You can only cross out factors or terms that are multiplied. ",
+        "bbox": [
+            455,
+            796,
+            856,
+            886
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "First we factor. ",
+        "bbox": [
+            449,
+            50,
+            571,
+            66
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Next, find the values that make the denominator 0. In this case, the only number that makes the denominator 0 is 6, so our domain is all real numbers except 6. ",
+        "bbox": [
+            449,
+            84,
+            852,
+            156
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Since $\\frac { x - 6 } { x - 6 }$ equals one we can cancel leaving us with ${ \\bf 3 x } + { \\bf 2 }$ over $\\mathbf { X } - \\mathbf { 6 }$ . Doesn’t that look much nicer? ",
+        "bbox": [
+            454,
+            243,
+            844,
+            318
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "img_path": "images/137161d65692a9f18999e31a60d9bf836d75c65db20d9a5fea2e240c6bc5fa15.jpg",
+        "text": "$$\n\\frac { 3 x + 2 } { x - 6 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            209,
+            344,
+            267,
+            383
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Your turn: Simplify $\\frac { x ^ { 2 } + 5 x + 6 } { x ^ { 2 } + 8 x + 1 5 }$ ",
+        "bbox": [
+            145,
+            425,
+            437,
+            467
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "[You get $\\frac { x + 2 } { x + 5 } ]$ ",
+        "bbox": [
+            143,
+            469,
+            279,
+            506
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Multiplying and dividing rational expressions ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            526,
+            593,
+            547
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "To multiply rational expressions you multiply straight across, numerator to numerators and denominators to denominators. You may cancel any factors you find that are the same (top- to- bottom) since you are MULTIPLYING. (Don’t forget to find values of the domain that make the denominator equal to zero!) ",
+        "bbox": [
+            143,
+            566,
+            848,
+            670
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "For example: ",
+        "bbox": [
+            143,
+            689,
+            267,
+            709
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c7d2e44c92a2a423500ac1e1e3465b0fe9a2edae1df234034aeaa67e8a02f829.jpg",
+        "text": "$$\n\\frac { x ^ { 2 } + x - 6 } { 2 x ^ { 2 } - 3 x + 1 } \\times \\frac { x ^ { 2 } + 3 x - 4 } { 2 x ^ { 2 } - 5 x + 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            220,
+            724,
+            441,
+            767
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Always factor first! ",
+        "bbox": [
+            516,
+            713,
+            671,
+            731
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Setting each of the factors in the denominator equal to zero we find our domain is all real numbers except for 1, 2, and $\\%$ . ",
+        "bbox": [
+            514,
+            747,
+            877,
+            803
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "img_path": "images/147d6b4580447fba2a0532ba063337f070dcd5fad7ce865cde112b0c2cf2517b.jpg",
+        "text": "$$\n\\frac { ( x + 3 ) ( x - 2 ) } { ( x - 1 ) ( 2 x - 1 ) } \\times \\frac { ( x - 1 ) ( x + 4 ) } { ( x - 2 ) ( 2 x - 1 ) }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            222,
+            797,
+            468,
+            838
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "img_path": "images/af003b48ee1bb5464e421836ffb30e329cd6f4ab1f37066aa7628f9ea7621948.jpg",
+        "text": "$$\n\\frac { ( x + 3 ) } { ( 2 x - 1 ) } \\times \\frac { ( x + 4 ) } { ( 2 x - 1 ) }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            223,
+            866,
+            367,
+            904
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e484890021532ecd12bd9a72173d42cf0ad359e627e8e2f1318e0b2e4f1115b8.jpg",
+        "text": "$$\n\\frac { ( x + 3 ) ( x + 4 ) } { ( 2 x - 1 ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            250,
+            933,
+            359,
+            972
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Since x – 1 and $\\mathbf { x } - 2$ appear in both the top and bottom, we can cancel them out. ",
+        "bbox": [
+            514,
+            851,
+            861,
+            886
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Collect what is left, and there we have it! ",
+        "bbox": [
+            514,
+            902,
+            841,
+            921
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $\\frac { 2 x ^ { 2 } + 5 x + 2 } { 2 x ^ { 2 } + 7 x + 3 } [ \\frac { x ^ { 2 } - 7 x - 3 0 } { x ^ { 2 } - 6 x - 4 0 }$ ",
+        "bbox": [
+            145,
+            108,
+            442,
+            150
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "[you get $\\frac { x + 2 } { x + 4 } ]$ ",
+        "bbox": [
+            143,
+            167,
+            274,
+            205
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Dividing is very similar to multiplying; we work in the same way except we multiply by the reciprocal of the second expression. Finishing is just multiplying, but don’t forget your domain! ",
+        "bbox": [
+            143,
+            234,
+            849,
+            296
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Let’s divide the same two expressions: ",
+        "bbox": [
+            143,
+            315,
+            503,
+            337
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "$\\frac { x ^ { 2 } + x - 6 } { 2 x ^ { 2 } - 3 x + 1 } \\div \\frac { x ^ { 2 } + 3 x - 4 } { 2 x ^ { 2 } - 5 x + 2 }$ $\\frac { ( x + 3 ) ( x - 2 ) } { ( x - 1 ) ( 2 x - 1 ) } \\div \\frac { ( x - 1 ) ( x + 4 ) } { ( x - 2 ) ( 2 x - 1 ) }$ $\\frac { ( x + 3 ) ( x - 2 ) } { ( x - 1 ) ( 2 x - 1 ) } \\times \\frac { ( x - 2 ) ( 2 x - 1 ) } { ( x - 1 ) ( x + 4 ) }$ $\\frac { ( x + 3 ) ( x - 2 ) } { ( x - 1 ) } \\times \\frac { ( x - 2 ) } { ( x - 1 ) ( x + 4 ) }$ $\\frac { ( x + 3 ) ( x - 2 ) ^ { 2 } } { ( x - 1 ) ^ { 2 } ( x + 4 ) }$ ",
+        "bbox": [
+            196,
+            363,
+            447,
+            671
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $\\frac { x ^ { 2 } + 3 x - 4 0 } { x ^ { 2 } + 2 x - 3 5 } \\div \\frac { x ^ { 2 } + 2 x - 4 8 } { x ^ { 2 } + 3 x - 1 8 }$ ",
+        "bbox": [
+            145,
+            741,
+            467,
+            784
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "We check the denominators for the domain AFTER we invert the second expression. Our domain is all real numbers except -4, ½, 1, and 2. ",
+        "bbox": [
+            478,
+            400,
+            887,
+            455
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Cancel any like factors, and then multiply across! ",
+        "bbox": [
+            477,
+            536,
+            872,
+            556
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "img_path": "images/6f8f701ba05494cbc1ecb10734718ef9fcaf881fd72a8b42b5ce459b551d2ae7.jpg",
+        "text": "$$\n\\mathsf { o u g e t } \\frac { ( x + 6 ) ( x - 3 ) } { ( x + 7 ) ( x - 6 ) } ]\n$$",
+        "text_format": "latex",
+        "bbox": [
+            161,
+            818,
+            325,
+            858
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Adding/Subtracting rational expressions: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            90,
+            549,
+            112
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "When adding/subtracting rational expressions they must have a common denominator. If the terms already have a common denominator we are free to just add them, the denominators remain the same. ",
+        "bbox": [
+            143,
+            131,
+            839,
+            191
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "$\\frac { x + 2 } { 1 5 } + \\frac { 4 x - 8 } { 1 5 }$ $= { \\frac { x + 2 + 4 x - 8 } { 1 5 } }$ Then simplify; $= \\ { \\frac { 5 x - 6 } { 1 5 } }$ ",
+        "bbox": [
+            142,
+            226,
+            272,
+            422
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "It is just as though we were adding: ${ \\frac { 1 } { 5 } } + { \\frac { 3 } { 5 } } = { \\frac { 4 } { 5 } }$ the denominator stays the same. ",
+        "bbox": [
+            477,
+            241,
+            705,
+            319
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "If the denominators are different, we must find a common denominator. ",
+        "bbox": [
+            143,
+            455,
+            709,
+            474
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "img_path": "images/1bdee5fa572502d48a9563588e661c7aeaaff33f027ad5a8bd3e8d3b52808193.jpg",
+        "text": "$$\n\\frac { 8 } { x + 6 } - \\frac { 5 } { x - 6 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            143,
+            508,
+            251,
+            549
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The common denominator for this expression will be $\\left( \\mathbf { \\boldsymbol { x } } \\mathbf { + } 6 \\right)$ (x-6) because these terms are NOT alike. Think of it like it we do simple fractions: ",
+        "bbox": [
+            596,
+            503,
+            941,
+            575
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Since $\\frac { 8 } { x + 6 }$ is missing a factor of (x-6) we multiply this term by $\\frac { x - 6 } { x - 6 }$ (Anything divided by itself equals one and does not change the value of the equation). We do a similar step with   \n$\\frac { 5 } { x - 6 }$ multiplying this term by it’s missing   \nfactor ${ \\frac { x + 6 } { x + 6 } } .$   \n(cid:) (cid:)   \n${ \\frac { 8 } { x + 6 } } { \\left( { \\frac { x - 6 } { x - 6 } } \\right) } { - } { \\frac { 5 } { x - 6 } } { \\left( { \\frac { x + 6 } { x + 6 } } \\right) }$ ",
+        "bbox": [
+            142,
+            559,
+            566,
+            872
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "img_path": "images/32116643be170912cf6e5a9d55db8e93f0904ae5c35c8665b6a707b102992c68.jpg",
+        "text": "$$\n\\frac { 1 } { 3 } + \\frac { 2 } { 5 } = -\n$$",
+        "text_format": "latex",
+        "bbox": [
+            740,
+            575,
+            825,
+            613
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "How did we find the common denominator then? We multiplied each term by the missing factor, just like we will now. ",
+        "bbox": [
+            596,
+            614,
+            941,
+            667
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Simplify the rational expression; ",
+        "bbox": [
+            143,
+            89,
+            403,
+            108
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8b745d2e99d2c539313dbe18b0fd6d69b9943ff3e03cfb5097760a1b01767752.jpg",
+        "text": "$$\n\\frac { 8 ( x - 6 ) - 5 ( x + 6 ) } { ( x + 6 ) ( x - 6 ) }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            145,
+            125,
+            290,
+            166
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "img_path": "images/18cf5431f1c36326e71339b2a81288b10f9f932e3274325e9452b24259910168.jpg",
+        "text": "$$\n{ \\begin{array} { r l } & { = { \\frac { 8 x - 4 8 - 5 x - 3 0 } { ( x + 6 ) ( x - 6 ) } } } \\\\ & { = { \\frac { 3 x - 7 8 } { ( x + 6 ) ( x - 6 ) } } = { \\frac { 3 ( x - 2 6 ) } { x ^ { 2 } - 3 6 } } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            142,
+            184,
+            370,
+            285
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $\\frac { 2 } { x ^ { 2 } + 4 x + 4 } + \\frac { 1 } { x + 2 }$ ",
+        "bbox": [
+            143,
+            319,
+            383,
+            359
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "[you get 2 ( 2) x  ] ",
+        "bbox": [
+            143,
+            378,
+            267,
+            417
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Solving rational equations: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            459,
+            410,
+            479
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "To solve an equation that contains rational expressions we multiply both sides of the equation by the least common denominator. . It is also important that we check our solution to make sure that it exists in our domain (that is, make certain our solution does not make our rational terms undefined). ",
+        "bbox": [
+            143,
+            496,
+            838,
+            598
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "For example: ",
+        "bbox": [
+            143,
+            636,
+            251,
+            654
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "img_path": "images/fe694baa8ae8bfeb5b59f33c183207db22871efc24a9916b14d4b75c5d0cad06.jpg",
+        "text": "$$\n{ \\frac { 4 x } { x - 3 } } - 3 = { \\frac { 3 x - 1 } { x + 3 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            143,
+            670,
+            282,
+            709
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The common denominator will be $( \\mathbf { x } { - } 3 ) ( \\mathbf { x } { + } 3 )$ so we multiply both sides by this… ",
+        "bbox": [
+            142,
+            727,
+            782,
+            746
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "img_path": "images/aa921bf28b0412c189316dc450a8ca8818bc8b215afd0a8deeac8613091ba5ea.jpg",
+        "text": "$$\n\\widehat { ( x - 3 ) ( x + 3 ) [ \\frac { 4 x } { x - 3 } - 3 ] } = [ \\frac { 3 x - 1 } { x + 3 } ] ( x - 3 ) ( x + 3 )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            145,
+            763,
+            504,
+            818
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ada576ec792633134deb9c33dd72eb5913c8998d460e27fff7fcfa6e4b2ed382.jpg",
+        "text": "$$\n4 x ( x + 3 ) - 3 ( x + 3 ) ( x - 3 ) = ( 3 x - 1 ) ( x - 3 )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            147,
+            835,
+            473,
+            854
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "img_path": "images/d386515defd66a19281cbb704df6a79e5136a59480f511d6668cfb058b9ed58b.jpg",
+        "text": "$$\n4 x ^ { 2 } + 1 2 x - 3 x ^ { 2 } + 2 7 = 3 x ^ { 2 } - 1 0 x + 3\n$$",
+        "text_format": "latex",
+        "bbox": [
+            147,
+            875,
+            426,
+            892
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "YUCK! But it simplifies nicely $\\circleddot$ ",
+        "bbox": [
+            557,
+            789,
+            833,
+            808
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Make sure to distribute to the 3! ",
+        "bbox": [
+            555,
+            818,
+            810,
+            837
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Since this is quadratic, we can either factor it or use the quadratic formula to solve. Let’s see if it factors nicely… ",
+        "bbox": [
+            537,
+            77,
+            849,
+            131
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "22 22 24 0 x x $- 2 ( x ^ { 2 } + 1 1 x + 1 2 ) = 0$ $- 2 ( x - 1 2 ) ( x + 1 ) = 0$ $\\mathbf { x } = 1 2$ and $\\mathbf { x } = \\mathbf { - } 1$ ",
+        "bbox": [
+            143,
+            107,
+            313,
+            241
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "We need to check to see if either solution makes our original equation undefined. They don’t so we have two valid solutions to the equation. ",
+        "bbox": [
+            142,
+            257,
+            838,
+            292
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $ { \\frac { 2 x } { x + 2 } } - 2 = { \\frac { x - 8 } { x - 2 } }$ ",
+        "bbox": [
+            145,
+            309,
+            382,
+            349
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "[you get $\\mathbf { x } { = } - 4$ , 6] ",
+        "bbox": [
+            143,
+            383,
+            240,
+            397
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Radical Expressions ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            483,
+            346,
+            505
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Radical Expressions are expressions with roots of variables in them. The square root is a number you can square to get another number. For instance, the square root of 25, $\\sqrt { 2 5 }$ , is 5, because if you square 5, you get 25. ",
+        "bbox": [
+            143,
+            523,
+            831,
+            606
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "There is one very basic rule when dealing with roots. If the root is even, you cannot have a negative number. This means that there can be no negative numbers in square roots, fourth roots, sixth roots, etc. Why? Because if you multiply two numbers to get a negative number, one must be positive and one must be negative, right? When you square a number, you multiply the number by itself, so it’s impossible to have one be negative and one be positive. ",
+        "bbox": [
+            143,
+            627,
+            852,
+            768
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "What about odd roots? If you are taking a cube root (third root), can you have a negative number? What would happen if you cube (-1)? (-1)(-1)(-1) $= - 1$ , so you can have a negative when dealing with odd roots. ",
+        "bbox": [
+            143,
+            790,
+            846,
+            852
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Fractional Exponents: ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            90,
+            366,
+            111
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "When you have a fractional exponent, you are also dealing with a radical. Fractional exponents follow the form: ",
+        "bbox": [
+            142,
+            131,
+            834,
+            171
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c66deb69c33192ae34fda778444579a743db0500e4bcc86127428ae271576fc1.jpg",
+        "text": "$$\na ^ { \\frac { m } { n } } = ( \\sqrt [ n ] { a } ) ^ { m }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            263,
+            194,
+            364,
+            226
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "The denominator of the fraction gives us the root you are taking, and the numerator is the power. For example: ",
+        "bbox": [
+            145,
+            247,
+            813,
+            287
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "img_path": "images/aa76afb89bd488c6f63534ce0cc37d4e01b81fa79dd1da8522ea5fa97cf930f5.jpg",
+        "text": "$$\n9 ^ { \\frac { 1 } { 2 } } = { \\sqrt { 9 } } = 3\n$$",
+        "text_format": "latex",
+        "bbox": [
+            246,
+            316,
+            351,
+            348
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "or ",
+        "bbox": [
+            143,
+            375,
+            166,
+            388
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c1d762cfa1cfb85b816f188eeb3b1ea869f639897f0a0d486c4fe60169f7220f.jpg",
+        "text": "$$\n3 ^ { \\frac { 3 } { 2 } } = \\sqrt [ 2 ] { 3 ^ { 3 } } = \\sqrt { 2 7 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            243,
+            411,
+            374,
+            443
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Let’s try simplifying a more complicated one: ",
+        "bbox": [
+            143,
+            463,
+            566,
+            484
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "img_path": "images/81eeb7a435f30b9e01462ef677c7af57cce54744b33d8f0a3127e7798e0d5b48.jpg",
+        "text": "$$\n\\sqrt [ 3 ] { 2 7 ( 2 ) ^ { 9 } ( 3 ) ^ { 3 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            204,
+            501,
+            308,
+            526
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "The cubed root of 27 is 3. When you take the root of an exponent the denominator is the root and the power is the numerator so 2 is to the 9/3 power and 3 is to the 3/3 power. Simplify, and you get 72. ",
+        "bbox": [
+            464,
+            516,
+            838,
+            606
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Another example to simplify: ",
+        "bbox": [
+            151,
+            640,
+            423,
+            661
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "img_path": "images/405e66fda0f4e9570af59ee751f5b4217d98f71082a98e7d6df28b484528e5ae.jpg",
+        "text": "$$\n{ \\begin{array} { r l } & { 4 a ^ { 2 } b ^ { 4 } \\textstyle \\sqrt [ 3 ] { - 2 7 a ^ { 5 } b ^ { 1 2 } } } \\\\ & { = - 3 a ^ { \\frac { 5 } { 3 } } b ^ { \\frac { 1 2 } { 3 } } } \\\\ & { = - 3 a ^ { \\frac { 5 } { 3 } } b ^ { 4 } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            140,
+            680,
+            285,
+            767
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $\\sqrt { 1 6 a ^ { 4 } b ^ { 8 } }$ ",
+        "bbox": [
+            145,
+            806,
+            323,
+            834
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "[you get $4 a ^ { 2 } b ^ { 4 } ]$ ",
+        "bbox": [
+            143,
+            875,
+            248,
+            893
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Solving Radical Equations ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            90,
+            405,
+            111
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "When solving radical equations we raise both sides of the equation to the power of the radical, but before we do that we need to get the radical on one side of the equation by itself. It is also important that we check our solution to make sure that it exists in our domain (that is, make certain our solution does not make our radical undefined). ",
+        "bbox": [
+            143,
+            130,
+            848,
+            233
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "For example: ",
+        "bbox": [
+            143,
+            244,
+            251,
+            262
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e4f105b085df81db3a764da3331f3a5c2832406b35f2d0a93d88e1eda744c8a8.jpg",
+        "text": "$$\n{ \\sqrt { x } } - 6 = 2\n$$",
+        "text_format": "latex",
+        "bbox": [
+            336,
+            260,
+            426,
+            284
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/de5dc181fc548a5a4bb9688adc34c4385ea07586f98dd367af0198c7bde4d991.jpg",
+        "text": "$$\n\\sqrt { x } = 8\n$$",
+        "text_format": "latex",
+        "bbox": [
+            366,
+            300,
+            426,
+            324
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "If we square both sides BEFORE we isolated the radical we would need to foil the product…It is much easier if we move everything first $\\circleddot$ ",
+        "bbox": [
+            581,
+            273,
+            785,
+            380
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/0d0775cd837e09c606f02300b6eb364506d106a66cb86f9d133c75a3c7a4d329.jpg",
+        "text": "$$\n{ \\sqrt { x } } ^ { 2 } = 8 ^ { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            349,
+            343,
+            431,
+            368
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Check: ",
+        "bbox": [
+            143,
+            415,
+            202,
+            433
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/0d3f304b4327dea4836c41c8f257704144cfbcd4af094127ffb823b3b4604eea.jpg",
+        "text": "$$\n\\scriptstyle x = 6 4\n$$",
+        "text_format": "latex",
+        "bbox": [
+            331,
+            392,
+            434,
+            435
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "More practice: ",
+        "bbox": [
+            143,
+            468,
+            261,
+            486
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c2b156ffc9f0c5bf25e8930faba050b3be1fe32303d7952a26c383a8bd36cd47.jpg",
+        "text": "$$\n\\sqrt [ 3 ] { 2 x + 1 } - 2 = 3\n$$",
+        "text_format": "latex",
+        "bbox": [
+            323,
+            484,
+            442,
+            508
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ffab439abbc998420047c0a6ef337560c27f9a8a6d2891a2b330878867a4486e.jpg",
+        "text": "$$\n{ \\sqrt [ 3 ] { 2 x + 1 } } = 5\n$$",
+        "text_format": "latex",
+        "bbox": [
+            321,
+            526,
+            416,
+            547
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c623205f20124d650995d5d4663be3b7a05d726927c11c1d2dd7055516c09298.jpg",
+        "text": "$$\n2 x + 1 { \\overset { 1 } { 3 } } = 5\n$$",
+        "text_format": "latex",
+        "bbox": [
+            328,
+            566,
+            426,
+            594
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Let’s get the radical on one side first. Then we will cube both sides of the equation and solve for x. ",
+        "bbox": [
+            596,
+            545,
+            782,
+            632
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/dd2f858f81ed5d192ff7b5f6706ce4d074419138eb0c45110d967d14577111a1.jpg",
+        "text": "$$\n{ \\left[ \\ 2 x + 1 \\ { \\frac { 1 } { 3 } } \\right] } ^ { 3 } = 5 ^ { 3 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            318,
+            618,
+            455,
+            665
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Checking our solution to make sure that it is in our domain… ",
+        "bbox": [
+            596,
+            650,
+            776,
+            703
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f7f5dbf80cce82a36120fcd2509dee4c3ec620b2a5069a6993385954d0c10031.jpg",
+        "text": "$$\n2 x + 1 = 5 ^ { 3 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            323,
+            684,
+            406,
+            702
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/900326fe2b0c41fe19715ca733804f026ee523a3b27d59e4e3a3719a7a136d44.jpg",
+        "text": "$$\n\\mathbf { \\boldsymbol { x } } = 6 2\n$$",
+        "text_format": "latex",
+        "bbox": [
+            333,
+            756,
+            392,
+            772
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Check: ",
+        "bbox": [
+            143,
+            795,
+            202,
+            811
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "img_path": "images/fa20763d48de6a04cdebad201ebda336246437f6ff402b1d970defc58940d0ca.jpg",
+        "text": "$$\n{ \\sqrt [ 3 ] { 2 \\left[ 6 2 + 1 \\right] } } - 2 = 3\n$$",
+        "text_format": "latex",
+        "bbox": [
+            321,
+            790,
+            457,
+            813
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Your turn: $\\sqrt { 3 y + 1 } + 6 = 1 0$ ",
+        "bbox": [
+            147,
+            847,
+            367,
+            872
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "[you get y=5] ",
+        "bbox": [
+            143,
+            890,
+            220,
+            904
+        ],
+        "page_idx": 30
+    }
+]

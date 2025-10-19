@@ -1,0 +1,17 @@
+{
+  "doc-d8dd36d1ae72c36aaa1288a848aaa37e": {
+    "status": "failed",
+    "error_msg": "RetryError[<Future at 0x1332cc4cf90 state=finished raised APIConnectionError>]",
+    "content_summary": "A Quick Algebra Review \n\n1 Simplifying Expressions   \n2. Solving Equations   \n3 Problem Solving   \n4. Inequalities   \n5 Absolute Values   \n6. Linear Equations   \n7 Systems of Equations   \n8 Laws of Exponents   \n9. Quadratics   \n10. Rationals   \n11. R...",
+    "content_length": 36433,
+    "created_at": "2025-10-06T10:06:16.847125+00:00",
+    "updated_at": "2025-10-06T10:06:33.269776+00:00",
+    "file_path": "A Quick Algebra Review.pdf",
+    "track_id": "insert_20251006_140616_37ac455d",
+    "metadata": {
+      "processing_start_time": 1759745176,
+      "processing_end_time": 1759745193
+    },
+    "chunks_list": []
+  }
+}

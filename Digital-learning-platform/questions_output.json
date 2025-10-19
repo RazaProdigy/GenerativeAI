@@ -1,0 +1,105 @@
+{
+  "success": true,
+  "message": "Questions generated successfully",
+  "concept": "order of operations",
+  "questions": [
+    {
+      "question": "What is the correct order of operations when solving an equation?",
+      "question_type": "mcq",
+      "options": [
+        "A) Parentheses, Exponents, Multiply/Divide, Add/Subtract",
+        "B) Exponents, Parentheses, Add/Subtract, Multiply/Divide",
+        "C) Add/Subtract, Multiply/Divide, Exponents, Parentheses",
+        "D) Multiply/Divide, Add/Subtract, Exponents, Parentheses"
+      ],
+      "correct_answer": "A) Parentheses, Exponents, Multiply/Divide, Add/Subtract",
+      "explanation": "The correct order of operations, commonly remembered as PEMDAS, is Parentheses, Exponents, Multiply/Divide, Add/Subtract. This sequence ensures the correct evaluation of mathematical expressions.",
+      "difficulty": "easy",
+      "topic": "Order of Operations"
+    },
+    {
+      "question": "When simplifying expressions, which set of rules dictates the order in which operations should be completed?",
+      "question_type": "fill_blank",
+      "options": null,
+      "correct_answer": "order of operations",
+      "explanation": "The order of operations, often remembered by PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), guides the sequence in which mathematical operations should be performed to ensure consistent results.",
+      "difficulty": "medium",
+      "topic": "Order of Operations"
+    }
+  ],
+  "evaluations": [
+    {
+      "question_id": "Q1",
+      "overall_score": 8.5,
+      "clarity_score": 9.0,
+      "difficulty_appropriateness": 8.0,
+      "content_accuracy": 9.0,
+      "educational_value": 8.0,
+      "feedback": "The question is clear and well-written, accurately representing the order of operations. The difficulty level is appropriate for the topic. The content is accurate and aligned with the provided source context. The question has educational value by reinforcing the importance of following the correct order of operations. Options are distinct and plausible.",
+      "is_approved": true,
+      "improvements": [
+        "Consider adding a more challenging question related to applying the order of operations in a complex expression."
+      ]
+    },
+    {
+      "question_id": "Q2",
+      "overall_score": 0.0,
+      "clarity_score": 0.0,
+      "difficulty_appropriateness": 0.0,
+      "content_accuracy": 0.0,
+      "educational_value": 0.0,
+      "feedback": "The question is missing from the evaluation.",
+      "is_approved": false,
+      "improvements": [
+        "Please include the missing question for evaluation."
+      ]
+    }
+  ],
+  "approved_questions": [
+    {
+      "question": "What is the correct order of operations when solving an equation?",
+      "question_type": "mcq",
+      "options": [
+        "A) Parentheses, Exponents, Multiply/Divide, Add/Subtract",
+        "B) Exponents, Parentheses, Add/Subtract, Multiply/Divide",
+        "C) Add/Subtract, Multiply/Divide, Exponents, Parentheses",
+        "D) Multiply/Divide, Add/Subtract, Exponents, Parentheses"
+      ],
+      "correct_answer": "A) Parentheses, Exponents, Multiply/Divide, Add/Subtract",
+      "explanation": "The correct order of operations, commonly remembered as PEMDAS, is Parentheses, Exponents, Multiply/Divide, Add/Subtract. This sequence ensures the correct evaluation of mathematical expressions.",
+      "difficulty": "easy",
+      "topic": "Order of Operations"
+    }
+  ],
+  "evaluation_summary": {
+    "total": 2,
+    "approved": 1,
+    "approval_rate": 0.5,
+    "average_score": 4.25,
+    "score_breakdown": {
+      "clarity": 4.5,
+      "difficulty": 4.0,
+      "accuracy": 4.5,
+      "educational_value": 4.0
+    }
+  },
+  "workflow_status": {
+    "status": "workflow_completed",
+    "error": null,
+    "documents_retrieved": 5,
+    "questions_generated": 2,
+    "questions_approved": 1,
+    "evaluation_summary": {
+      "total": 2,
+      "approved": 1,
+      "approval_rate": 0.5,
+      "average_score": 4.25,
+      "score_breakdown": {
+        "clarity": 4.5,
+        "difficulty": 4.0,
+        "accuracy": 4.5,
+        "educational_value": 4.0
+      }
+    }
+  }
+}
